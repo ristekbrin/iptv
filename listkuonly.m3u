@@ -37,25 +37,25 @@ http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040427.jpg" group-title="INDONESIA", JAKARTA GLOBE NEWS CHANNEL
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040422.png" group-title="LOKAL-1", TVKU
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040422.png" group-title="INDONESIA", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040420.png" group-title="LOKAL-1", ADI TV YOGYAKARTA
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040420.png" group-title="INDONESIA", ADI TV YOGYAKARTA
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040421.png" group-title="LOKAL-1", INTV
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040421.png" group-title="INDONESIA", INTV
 https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040418.jpg" group-title="LOKAL-1", HOME&LIVING
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040418.jpg" group-title="INDONESIA", HOME&LIVING
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040409.png" group-title="LOKAL-1", HIDUP Tv
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040409.png" group-title="INDONESIA", HIDUP Tv
 http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040384.jpg" group-title="LOKAL-1", REFORMED 21
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040384.jpg" group-title="INDONESIA", REFORMED 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040383.png" group-title="LOKAL-1", RAI YOYO
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040383.png" group-title="INDONESIA", RAI YOYO
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040375.jpg" group-title="LOKAL-1", CAHAYA BANTEN
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040375.jpg" group-title="INDONESIA", CAHAYA BANTEN
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040372.png" group-title="LOKAL-1", ADI TV
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040372.png" group-title="INDONESIA", ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040364.jpg" group-title="LOKAL-1", JAKARTA GLOBE NEWS
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040364.jpg" group-title="INDONESIA", JAKARTA GLOBE NEWS
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="RELIGI",NABAWI TV
