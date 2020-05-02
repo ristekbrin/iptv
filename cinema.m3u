@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1,Cinema
+https://plbl.m9.lfstrm.tv/park_razvlecheniy/normal/1/index.m3u8?account=e26beeeca5b722cf&client=4eeab7d1d6bb1ef6&env=s&expires=1574582400&mpltlh=auto&origin=m9-live1&profile=a8fd0c03f7290a64&provider_id=5c37579b22855081e5d3f787%C2%AEion=ru.volga.nizhny_novgorod-obl.nizhny+novgorod&token=14ssmWxlM7kfKdyY5sMwsA&user=54432fea6b06b42f&wlid=smotreshka
+#EXTINF:-1,Shot TV
+http://persik.tv/stream/7725/408679/10454.m3u8
+#EXTINF:-1,TV XXI
+https://plbl.m9.lfstrm.tv/tv21/normal/1/index.m3u8
+#EXTINF:-1,КиноСат
+http://russia.livetv.az/russia/kinosat/playlist.m3u8
+#EXTINF:-1,Кинокомедия
+http://russia.livetv.az/russia/kinokomediya/playlist.m3u8
+#EXTINF:-1,Киномикс
+https://plbl.m9.lfstrm.tv/ntv_plus_kino_plus/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1,Киноужас
+https://plbl.m9.lfstrm.tv/kinoujas_hd/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr1&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1,Кинохит HD
+https://plbl.m9.lfstrm.tv/ntv_plus_kinohit_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1,Мужское кино
+https://plbl.m9.lfstrm.tv/interesnoetv/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1,Наше новое кино
+https://plbl.m9.lfstrm.tv/ntv_plus_nashe_novoe_kino/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1,Bolt HD
+https://plbl.m9.lfstrm.tv/bolt_hd/normal/3/index.m3u8?account=b61070fc2bc6614c&amp;client=689fed54f633d6a4&amp;env=s&amp;expires=1582185600&amp;mpltlh=auto&amp;origin=m9-live4&amp;profile=a02e2f8f035f63ee&amp;provider_id=56f1230a4e2e675d26000075®ion=ru.north-west.saint_petersburg&amp;token=0maye_fPeLMJ1kN9Vz1sKg&amp;user=f6c78e8b2e17d367&amp;wlid=smotreshka
+#EXTINF:-1,FOX HD
+https://plbl.m9.lfstrm.tv/fox/normal/1/index.m3u8
+#EXTINF:-1,Fox Life
+https://plbl.m9.lfstrm.tv/fox_life/normal/1/index.m3u8
+#EXTINF:-1,Sony Channel HD
+https://plbl.m9.lfstrm.tv/set/normal/1/index.m3u8
+#EXTINF:-1,Spike
+https://plbl.m9.lfstrm.tv/spike_hd/normal/3/index.m3u8?account=4d837b77a2610a6e&amp;client=689fed54f633d6a4&amp;env=s&amp;expires=1581962400&amp;mpltlh=auto&amp;origin=m9-live4&amp;profile=3a5c7adecb8ad667&amp;provider_id=5b0fdb8557971859510a2bdb®ion=&amp;token=xMADbaKpEpM85xsgKX8zXQ&amp;user=c4e905a972589199&amp;wlid=smotreshka
+#EXTINF:-1,Star Cinema HD Россия
+https://plbl.m9.lfstrm.tv/star_cinema_hd/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-live4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1,Star Family HD Россия
+https://plbl.m9.lfstrm.tv/star_family_hd/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-live4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1,Star Family UA
+http://tv1.u-net.co:10001/star_family/tracks-v1a1/index.m3u8
+#EXTINF:-1,Киносерия
+https://plbl.m9.lfstrm.tv/mnogotv/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1,Мир сериала
+https://plbl.m9.lfstrm.tv/mir_seriala/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1,Русский Детектив
+https://plbl.m9.lfstrm.tv/russkiy_detektiv/normal/1/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr1&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1,Русский бестселлер
+https://plbl.m9.lfstrm.tv/russkiy_bestseller/normal/1/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr1&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1,Akudji
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,EVGEN Serial
+https://v2.catcast.tv/content2/36168/index.m3u8
+#EXTINF:-1,Movie Family
+https://autopilot.catcast.tv/content/35448/index.m3u8?password=74569857845640698609765906
+#EXTINF:-1,Movie Random
+https://autopilot.catcast.tv/content/35525/index.m3u8?password=84577654860789547685609
+#EXTINF:-1,Kинозал HD 2
+http://hls.mnogotv.club:8080/hls/54516.m3u8
+#EXTINF:-1,Kинозал HD 3
+https://v2.catcast.tv/content2/36506/index.m3u8
+#EXTINF:-1,Sever TV Kino
+https://hls.goodgame.ru/hls/146065.m3u8
+#EXTINF:-1,STR
+https://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1,KVN-HD
+http://hls.goodgame.ru:8080/hls/172148.m3u8
+#EXTINF:-1,PZN HD
+https://hls.goodgame.ru/hls/12949_480.m3u8
+#EXTINF:-1,Zigfreed TV
+https://v2.catcast.tv/content2/37713/index.m3u8
+#EXTINF:-1,U.HD
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1,Кинорейс 1
+http://timeshift.arpinet.am/228/tracks-v1a1/index.m3u8
+#EXTINF:-1,VHS EVGEN
+https://v2.catcast.tv/content2/36251/index.m3u8
+#EXTINF:-1,FILM TV HD
+http://195.9.195.3:8080/hls/165462.m3u8
+#EXTINF:-1,Боевик TV
+https://v2.catcast.tv/content2/37493/index.m3u8
+#EXTINF:-1,ДеЖавю
+https://v2.catcast.tv/content2/37913/index.m3u8
+#EXTINF:-1,Сити Эдем TV
+https://v2.catcast.tv/content2/34246/index.m3u8
+#EXTINF:-1,Сатурн ТВ
+https://v2.catcast.tv/content2/38118/index.m3u8
+#EXTINF:-1,Марс ТВ
+https://v2.catcast.tv/content2/37033/index.m3u8
+#EXTINF:-1,firedron
+https://hls.goodgame.ru/hls/54516.m3u8
+#EXTINF:-1,VHS 90s
+https://v2.catcast.tv/content2/37925/index.m3u8
+#EXTINF:-1,BCHD HORROR
+http://195.9.195.3:8080/hls/158135.m3u8
+#EXTINF:-1,Fear Ужасы EVGEN
+https://v2.catcast.tv/content2/36277/index.m3u8
+#EXTINF:-1,Фантастика
+https://v2.catcast.tv/content2/37388/index.m3u8
+#EXTINF:-1,Фантастика HD
+http://xiptv.site/strahvideo
+#EXTINF:-1,Rassian Комедии EVGEN
+https://v2.catcast.tv/content/36168/index.m3u8
+#EXTINF:-1,KINO.WATCH (ХИТ)
+https://or-be-01.mycdn.video/watch/hit/index.m3u8?token=SVG4MFQOEW
+#EXTINF:-1,TOP Великолепный Век
+http://topchantv.net:3456/Sidimdoma100/p2ZSYH2JKP/6
+#EXTINF:-1,TOP 80s
+http://topchantv.net:3456/Sidimdoma100/p2ZSYH2JKP/277
+#EXTINF:-1,TOP BUDO
+http://topchantv.net:3456/Sidimdoma100/p2ZSYH2JKP/428
+#EXTINF:-1,TOP Cinema HD
+http://topchantv.net:3456/Sidimdoma100/p2ZSYH2JKP/1611
+#EXTINF:-1,TOP СССР
+http://topchantv.net:3456/Sidimdoma100/p2ZSYH2JKP/6641
+#EXTINF:-1,FlixSnip
+https://plbl.m9.lfstrm.tv/flixsnip_hd/normal/1/index.m3u8?account=b61070fc2bc6614c&client=689fed54f633d6a4&env=s&expires=1583424000&mpltlh=auto&origin=m9-live4&profile=a02e2f8f035f63ee&provider_id=56f1230a4e2e675d26000075&region=ru.north-west.saint_petersburg&token=HSnnZTamKwJ8F78mgcdYdA&user=f6c78e8b2e17d367&wlid=smotreshka
+#EXTINF:-1,FlixSnip HD
+https://plbl.m9.lfstrm.tv/flixsnip_hd/normal/3/index.m3u8?account=b61070fc2bc6614c&client=689fed54f633d6a4&env=s&expires=1583424000&mpltlh=auto&origin=m9-live4&profile=a02e2f8f035f63ee&provider_id=56f1230a4e2e675d26000075&region=ru.north-west.saint_petersburg&token=HSnnZTamKwJ8F78mgcdYdA&user=f6c78e8b2e17d367&wlid=smotreshka
+#EXTINF:-1,Kino 24
+http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1,Kinoteatr
+https://urrl.ru/rebrandly-w199y55w-kinoteatr
+#EXTINF:-1,Rassian Комедии EVGEN
+https://v2.catcast.tv/content/36168/index.m3u8
+#EXTINF:-1,СССР (EVGEN)
+https://v2.catcast.tv/content2/36506/index.m3u8
+#EXTINF:-1,Советское кино
+https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0.m3u8?|User-agent=mx?vsid=0
+#EXTINF:-1,Atv Kinoman
+https://showstreams.tv/api/v1/ip-tv/take?prefix=kinoman_tv&token=null
+#EXTINF:-1,ATV Bazmoc
+http://78.129.228.178/iptv/M5RM2HGLZQ99X9/289/index.m3u8
+#EXTINF:-1,ATV Bazmoc
+http://78.129.228.178/iptv/QZ9SNCDE8C7UZ6/289/index.m3u8
+#EXTINF:-1,ATV Bazmoc
+http://78.129.228.178/iptv/PW2F8DZXLQM8LY/289/index.m3u8
+#EXTINF:-1,ГАЛ ТВ
+http://clients.apsny.camera:80/tv_gal_tv_hd_online/index.m3u8
+#EXTINF:-1,Капитан Фантастика HD
+https://plbl.m9.lfstrm.tv/ginger_hd/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1,FAN HD
+http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:-1,First MULT
+https://5656.ga/ch1.m3u8
+#EXTINF:-1,Second Serial
+https://5656.ga/ch2.m3u8
+#EXTINF:-1,Third MULT
+https://5656.ga/ch3.m3u8
+#EXTINF:-1,Секретные материалы
+https://5656.ga/ch4.m3u8
+#EXTINF:-1,Fifth Movies
+https://5656.ga/ch5.m3u8
+#EXTINF:-1,Sixth Movies
+https://5656.ga/ch6.m3u8
+#EXTINF:-1,OTTO FM
+http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
+#EXTINF:-1,RETRO
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,RETRO 80s
+https://v1.catcast.tv/content/37614/index.m3u8
+#EXTINF:-1,КиноМеню HD
+http://serv25.vintera.tv:8081/hdmedia/kinomenu/playlist.m3u8
