@@ -11,8 +11,8 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="INDONESIA",INDOSIAR
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=4006885A62AC6F6CF48BE55E87E506C848CBFDB6&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="INDONESIA",SCTV
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png" group-title="INDONESIA",KOMPAS TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1590102181/ei/RbTGXu3DDo7e4-EP7N6YSA/ip/125.160.115.27/id/gIB2egm7tL8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOWfEJyhKT1RE_h3ZBVAd-zORlzgw4hQbNex-fCbewwRAiEAw26_fwL9Rjl4XI5NFth9lZo7Mt9RN3qDiViWq8GFWXk%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="INDONESIA",NET TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1590099869/ei/PavGXveQL5rKvwSpqrDoCg/ip/125.160.115.27/id/JKQzLbfh7SM.28/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJyzHrUg1mJ4l0FTfMBdnLMmJXfaxZGAb2GdDIBuGpvZAiBfUFjuuqg_Y4ngSz5IBP0hKr5xLBL_0Tmml2CDjiNe7g%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/640px-TvOne_logo_2012.svg.png" group-title="INDONESIA",TV ONE
