@@ -1,5 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" tvg-country="ID" tvg-url="" group-title="Religious",ADiTV (Yogyakarta)
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="INDONESIA",KOMPAS
-https://www.useetv.com/livetv/kompastv?PageSpeed=noscript
+#EXTINF:-1,KOMPAS TV
+http://43.245.183.170/kompastv/live.stream/playlist.m3u8
+#EXTINF:-1,GLOBAL TV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index1024.m3u8
+
+#EXTINF:-1,RCTI
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index1024.m3u8
+#EXTINF:-1, NUSANTARA
+rtmp://103.237.35.198:1935/live/liventv1
+
+#EXTINF:-1, RAJAWALI RTV
+rtmp://203.153.97.35/live//livestream
