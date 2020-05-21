@@ -15,8 +15,8 @@ http://203.153.218.28:9981/stream/channelid/261435212?ticket=4006885A62AC6F6CF48
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="INDONESIA",NET TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1590099869/ei/PavGXveQL5rKvwSpqrDoCg/ip/125.160.115.27/id/JKQzLbfh7SM.28/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJyzHrUg1mJ4l0FTfMBdnLMmJXfaxZGAb2GdDIBuGpvZAiBfUFjuuqg_Y4ngSz5IBP0hKr5xLBL_0Tmml2CDjiNe7g%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="INDONESIA",TV ONE
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/640px-TvOne_logo_2012.svg.png" group-title="INDONESIA",TV ONE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1590100530/ei/0a3GXtvqN4uqvQTUtoiwBg/ip/125.160.115.27/id/YbDae5XMkJs.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgB3tti1pzPNPWVAMk1lo-rnYIvM5bNgF1V8r_os7Dw_YCIG1DdZcAQeNPRKXmHVH2z6JNkXeMueJHTV4CiSCQ6e1i/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/images/icon-fm.jpg" group-title="INDONESIA",FIRST MEDIA
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="INDONESIA",AREK TV SURABAYA
