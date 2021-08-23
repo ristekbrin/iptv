@@ -1,587 +1,778 @@
 #EXTM3U
-#EXTINF:-1,INEWS+ https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-#EXTINF:-1,GLOBAL TV+ https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-#EXTINF:-1,SCTV HD http://id1.indostreamingtv.com/live/sctv/index.m3u8
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
-#EXTINF:-1,METRO TV HD http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-#EXTINF:-1,NET TV http://45.126.83.51/qwr9ew/s/s08/01.m3u8
-http://45.126.83.51/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1,NET TV HD http://id2.indostreamingtv.com/live/nettv/index.m3u8
-http://id2.indostreamingtv.com/live/nettv/index.m3u8
-#EXTINF:-1,CNN https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1,CNBC https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1,ANTV http://id2.indostreamingtv.com/live/antv/index.m3u8
-http://id2.indostreamingtv.com/live/antv/index.m3u8
-#EXTINF:-1,INDOSIAR http://id1.indostreamingtv.com/live/indosiar/index.m3u
-http://id1.indostreamingtv.com/live/indosiar/index.m3u
-#EXTINF:-1,INDOSIAR HD http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-#EXTINF:-1,TRANS 7 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
-http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
-#EXTINF:-1,TV ONE http://id1.indostreamingtv.com/live/tv444/index.m3u8
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
-#EXTINF:-1,TRANS TV + http://id2.indostreamingtv.com/live/tv33/index.m3u8
-http://id2.indostreamingtv.com/live/tv33/index.m3u8
-#EXTINF:-1,TRANS TV http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
-http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
-#EXTINF:-1,TVRI + http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
-#EXTINF:-1,DAAI TV http://210.210.155.35/qwr9ew/s/s13/01.m3u8
-http://210.210.155.35/qwr9ew/s/s13/01.m3u8
-#EXTINF:-1,BERITA SATU http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1,RRI NET http://36.89.47.217:11935/rrinet/live/index.m3u8
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1,RTV http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
-http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
-#EXTINF:-1,TVKU http://103.30.1.14:8080/hls/live.m3u8
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1,DANGDUT http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-#EXTINF:-1,JGO http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:-1,group-title="LOKAL"MNCTV http://id6.indostreamingtv.com/live/mnctv/index.m3u8
-http://id6.indostreamingtv.com/live/mnctv/index.m3u8
-#EXTINF:-1,group-title="LOKAL"GLOBALTV http://id6.indostreamingtv.com/live/tv1/index.m3u8
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
-#EXTINF:-1,group-title="LOKAL"RCTI http://id6.indostreamingtv.com/live/rcti/index.m3u8
-http://id6.indostreamingtv.com/live/rcti/index.m3u8
-#EXTINF:-1,group-title="LOKAL"TRANS7 http://id2.indostreamingtv.com/live/trans7/index.m3u8
-http://id2.indostreamingtv.com/live/trans7/index.m3u8
-#EXTINF:-1,group-title="LOKAL"TVONE https://cdn-livetv1.metube.id/hls/tvone_240/index.m3u8
-https://cdn-livetv1.metube.id/hls/tvone_240/index.m3u8
-#EXTINF:-1,group-title="LOKAL"METROTV http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w391596422_b1492000_sleng.m3u8
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w391596422_b1492000_sleng.m3u8
-#EXTINF:-1,group-title="LOKAL"INEWSTV https://cdn-livetv5.metube.id/hls/inewstv_240/index.m3u8
-https://cdn-livetv5.metube.id/hls/inewstv_240/index.m3u8
-#EXTINF:-1,group-title="LOKAL"RTV http://210.210.155.35/session/0c55f20a-0998-11ea-875c-b82a72d63267/qwr9ew/s/s12/01.m3u8
-http://210.210.155.35/session/0c55f20a-0998-11ea-875c-b82a72d63267/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1,group-title="LOKAL"CNN TV https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1299546647_b384000_sleng.m3u8
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1299546647_b384000_sleng.m3u8
-#EXTINF:-1,group-title="LOKAL"INDOSIAR http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/01.m3u8
-http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1,group-title="LOKAL"SCTV https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
-https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
-#EXTINF:-1,group-title="LOKAL"TVRI https://cdn-livetv1.metube.id/hls/tvri_480/index.m3u8
-https://cdn-livetv1.metube.id/hls/tvri_480/index.m3u8
-#EXTINF:-1,group-title="LOKAL"MNCSPORT https://cdn-livetv1.metube.id/hls/mncsport_240/index.m3u8
-https://cdn-livetv1.metube.id/hls/mncsport_240/index.m3u8
-#EXTINF:-1,group-title="LOKAL"IDXTV https://cdn-livetv1.metube.id/hls/idxchannel_240/index.m3u8
-https://cdn-livetv1.metube.id/hls/idxchannel_240/index.m3u8
-#EXTINF:-1,group-title="LOKAL"JAKTV https://cdn-livetv1.metube.id/hls/jaktv_480/536549.ts
-https://cdn-livetv1.metube.id/hls/jaktv_480/536549.ts
-#EXTINF:-1,group-title="LOKAL"JTV https://cdn-livetv1.metube.id/hls/jtv_240/index.m3u8
-https://cdn-livetv1.metube.id/hls/jtv_240/index.m3u8
-#EXTINF:-1,group-title="KID"DISNEY JUNIOR http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1,group-title="KID"DUCK TV http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-#EXTINF:-1,group-title="KID"EBS TV http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1,group-title="KID"MYKIDS http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
-http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
-#EXTINF:-1,group-title="KID"ANIMAX http://210.210.155.35/dr9445/h/h144/index2.m3u8
-http://210.210.155.35/dr9445/h/h144/index2.m3u8
-#EXTINF:-1,group-title="KID"MIAOMI https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:-1,group-title="MOVIE STREAMING"MY CINEMA http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1,group-title="MOVIE STREAMING"RAY MOVIE http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1,group-title="MOVIE STREAMING"CALESTIAL MOVIE http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1,group-title="MOVIE STREAMING"KIX http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF:-1,NET
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-#EXTINF:-1,ANTV
-http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-#EXTINF:-1,RTV
-http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1,METROTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:-1,KOMPASTV
-http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
-#EXTINF:-1,TRANSVISION
-http://210.210.155.35/uq2663/h/h234/index2.m3u8
-#EXTINF:-1,CNN INDONESIA HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
-#EXTINF:-1,BERITA SATU HD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1,HELLO TV HD
-http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
-#EXTINF:-1,KIX SD
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
-#EXTINF:-1,thrill SD
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1,thrill HD
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1,SONY CHANEL
-http://210.210.155.35/uq2663/h/h142/01.m3u8
-#EXTINF:-1,CINEMA WORD
-http://210.210.155.35/uq2663/h/h04/index2.m3u8
-#EXTINF:-1,WOWOW MOVIES
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-#EXTINF:-1,SYFY
-http://23.237.22.82:8086/udp/127.0.0.1:56063
-#EXTINF:-1,HALLMARK MOVIES&MYSTERIES
-http://23.237.22.82:8086/udp/127.0.0.1:56067
-#EXTINF:-1,FOX MOVIES
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-#EXTINF:-1,FOX MOVIES PREMIUM
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1,FOX MOVIES COMEDY
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-#EXTINF:-1,HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:-1,SHOWTIME HD
-http://80.80.160.168/live/7/live.m3u8
-#EXTINF:-1,Sony One HD
-http://210.210.155.35/uq2663/h/h13/index.m3u8
-#EXTINF:-1,SBS IN
-http://210.210.155.35/uq2663/h/h28/index2.m3u8
-#EXTINF:-1,SBS IN
-http://210.210.155.35/uq2663/h/h28/index1.m3u8
-#EXTINF:-1,K-Drama
-http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
-#EXTINF:-1,K+
-http://rr.dens.tv/h/h08/index2.m3u8
-#EXTINF:-1,KBS WORLD
-http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
-#EXTINF:-1,ASTRO AWANI
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
-#EXTINF:-1,ASTRO GO SHOP
-http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
-#EXTINF:-1,TV IKIM
-http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1,Itali SPORTS HD
-http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
-#EXTINF:-1,FOX SPORT 1
-http://45.58.62.92:8080
-#EXTINF:-1,SENTANA SPORT+
-http://ott-cdn.ucom.am/s82/03.m3u8
-#EXTINF:-1,SENTANA SPORT
-http://ott-cdn.ucom.am/s81/03.m3u8
-#EXTINF:-1,SPORTSMAX
-http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-#EXTINF:-1,ESPN
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1,ABU DHABI SPORT
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:-1,ABU DHABI SPORT 2
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:-1,Stadium Sports Network
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-#EXTINF:-1,TVA SPORT
-http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8
-#EXTINF:-1,X SPORT
-http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
-#EXTINF:-1,FLOW SPORTS1
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1,FOX SPORT RACING
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1,VIASAT SPORT
-http://109.248.236.41:4433/udp/238.1.1.50:1234
-#EXTINF:-1,AD SPORT 1
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,AD SPORT 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,FOX SPORT 3
-http://210.210.155.35/uq2663/h/h21/index1.m3u8
-#EXTINF:-1,ALL SPORTS
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
-#EXTINF:-1,ASTRO ARENA
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1,ATGV 1 SPORT
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1,BT SPORT/ESPN
-http://31.220.0.196:8081/live/ctvb4/playlist.m3u8
-#EXTINF:-1,FISHING NETWORK
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-#EXTINF:-1,KUWAIT ONE
-http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
-#EXTINF:-1,MLB NETWORK
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
-#EXTINF:-1,NBA TV
-http://31.220.0.134:8081/live/nba/playlist.m3u8
-#EXTINF:-1,REAL MADRID TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1,SKY SPORT F1
-http://31.220.0.134:8081/live/jtvf1/playlist.m3u8
-#EXTINF:-1,100% Automoto SPORT
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1,TVA SPORT
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8
-#EXTINF:-1,BTN SPORTS
-http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
-#EXTINF:-1,ESPN 2
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1,AniPlus
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-#EXTINF:-1,CARTOON NETWORK 1
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:-1,ANIMAX
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
-#EXTINF:-1,tvg-logo=""Discovery ID
-http://80.80.160.168/live/5/500000/live.m3u8
-#EXTINF:-1,tvg-logo=""Fish Channel
-http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
-#EXTINF:-1,tvg-logo=""Foodie Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-#EXTINF:-1,MAKKAH
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1,MADINAH
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1,RODJA TV
-http://rr2.dens.tv/s/s14/index1.m3u8
-#EXTINF:-1,ASWAJA TV
-http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
-#EXTINF:-1,WESAL TV
-http://119.235.249.60:1935/wesaltv/live/chunklist_w454796056.m3u8
-#EXTINF:-1,SURAU TV
-http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8
-#EXTINF:-1,TAHFIDZ TV
-http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
-#EXTINF:-1,TLC
-http://80.80.160.168/live/2/live.m3u8
-#EXTINF:-1,HOME&LIVING
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:-1,
-http://210.210.155.35/session/a1876b84-11cc-11e9-a55e-c81f66f89318/uq2663/h/h03/01.m3u8
-#EXTINF:-1,
-http://210.210.155.35/dr9445/h/h16/index2.m3u8
-#EXTINF:-1,
-http://210.210.155.35/dr9445/h/h15/index2.m3u8
-#EXTINF:-1,
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
-#EXTINF:-1,
-http://rr2.dens.tv/s/s33/index2.m3u8
-#EXTINF:-1,CINEMA WORLD
-http://210.210.155.35/session/833fafca-11cb-11e9-a870-c81f66f89318/uq2663/h/h04/02.m3u8
-#EXTINF:-1,
-http://210.210.155.35/session/c4f40aca-11ca-11e9-a870-c81f66f89318/uq2663/h/h11/01.m3u8
-#EXTINF:-1,
-http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
-#EXTINF:-1,
-http://210.210.155.35/session/0e52fa1e-11cb-11e9-a870-c81f66f89318/uq2663/h/h10/01.m3u8
-#EXTINF:-1,
-http://rr.dens.tv/h/h05/index2.m3u8
-#EXTINF:-1,FOX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch328)/index.m3u8
-#EXTINF:-1,FOX ACTION MOVIES
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch312)/index.m3u8
-#EXTINF:-1,FOX CRIME HD
-http://edge.linknetott.swiftserve.com/channelgroup2/cg210production/ch329/02.m3u8
-#EXTINF:-1,FOX FAMILIY MOVIES
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch331)/index.m3u8
-#EXTINF:-1,
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch327)/index.m3u8
-#EXTINF:-1,FOX MOVIES
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
-#EXTINF:-1,HISTORY CHANNEL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
-#EXTINF:-1,
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
-#EXTINF:-1,K+
-http://210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8
-#EXTINF:-1,K DRAMA
-http://210.210.155.35/session/50583bd2-e57e-11e8-8760-b82a72d63267/qwr9ew/s/s42/index2.m3u8
-#EXTINF:-1,
-http://210.210.155.35/session/a45c93be-048b-11e9-8761-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF:-1,
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/Stream(01)/index.m3u8
-#EXTINF:-1,
-http://210.210.155.35/session/8682945e-e57f-11e8-8e07-c81f66f89318/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1,
-http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
-#EXTINF:-1,
-http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
-#EXTINF:-1,
-http://rr.dens.tv/h/h06/index2.m3u8
-#EXTINF:-1,
-http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
-#EXTINF:-1,
-http://edge.linknetott.swiftserve.com/channelgroup5/cg529production/ch340/02.m3u8
-#EXTINF:-1,ZEE BIOSKOP
-http://rr2.dens.tv/s/s32/index2.m3u8
-#EXTINF:-1,DA VINCI KIDS
-http://rr.dens.tv/h/h01/index2.m3u8
-#EXTINF:-1,eGG NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
-#EXTINF:-1,Karaoke Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
-#EXTINF:-1,MiX Music
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
-#EXTINF:-1,TMusic
-http://118.97.167.8/jhos/allegro.m3u8?stime=20180828230000&etime=20180829000000&encoded=0ccbf73b1c337c27949af
-#EXTINF:-1,MUSIC CHOICE
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1,MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
-#EXTINF:-1,BOX HITS
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1,ONE
-http://rtmp.one.by:1300
-#EXTINF:-1,O FHD#EXTINF:0 group-title="NEWS"ABC NEWS
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1,ALJAZEERA
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
-#EXTINF:-1,ARISE NEWS
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,BLOOMBERG 2
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1,Itali News
-http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
-#EXTINF:-1,CNN INDONESIA
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
-#EXTINF:-1,DW CHANNEL
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
-#EXTINF:-1,PALESTINE TODAY
-http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-#EXTINF:-1,Al Aqsa
-http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1,SKY NEWS
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,BTV NEWS
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1,CGTN DOCUMENTARY
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1,DA VINCI LEARNING
-http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
-#EXTINF:-1,DISCOVERY
-http://80.80.160.168/live/8/2500000/live.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-http://80.80.160.168/live/9/live.m3u8
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://80.80.160.168/live/5/live.m3u8
-#EXTINF:-1,Fox Premium Movies
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-#EXTINF:-1,Anime CN
-http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Gospel Cartoon
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
-#EXTINF:-1,AXN
-http://nn.geo.joj.sk/hls/wau-360.m3u8
-#EXTINF:-1,(ID) TVRI NASIONAL
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
-#EXTINF:-1,(ID) TVRI OLAHRAGA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1,(ID) TVRI ACEH
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
-#EXTINF:-1,(ID) TVRI SUMATERA UTARA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
-#EXTINF:-1,(ID) TVRI SUMATERA BARAT
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8
-#EXTINF:-1,(ID) TVRI SUMATERA SELATAN
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
-#EXTINF:-1,(ID) TVRI RIAU
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
-#EXTINF:-1,(ID) TVRI JAMBI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
-#EXTINF:-1,(ID) TVRI BANGKA BELITUNG
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBabel)/index.m3u8
-#EXTINF:-1,(ID) TVRI BENGKULU
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
-#EXTINF:-1,(ID) TVRI LAMPUNG
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILampung)/index.m3u8
-#EXTINF:-1,(ID) TVRI DKI JAKARTA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDki)/index.m3u8
-#EXTINF:-1,(ID) TVRI JAWA BARAT
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
-#EXTINF:-1,(ID) TVRI JAWA TENGAH
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
-#EXTINF:-1,(ID) TVRI JAWA TIMUR
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
-#EXTINF:-1,(ID) YOGYAKARTA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
-#EXTINF:-1,(ID) TVRI BALI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
-#EXTINF:-1,(ID) TVRI NUSA TENGGARA BARAT
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
-#EXTINF:-1,(ID) TVRI NUSA TENGGARA TIMUR
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
-#EXTINF:-1,(ID) TVRI KALIMANTAN BARAT
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
-#EXTINF:-1,(ID) TVRI KALIMANTAN TENGAH
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
-#EXTINF:-1,(ID) TVRI KALIMANTAN TIMUR
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
-#EXTINF:-1,(ID) TVRI KALIMANTAN SELATAN
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
-#EXTINF:-1,(ID) TVRI SULAWESI SELATAN
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
-#EXTINF:-1,(ID) TVRI SULAWESI BARAT
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
-#EXTINF:-1,(ID) TVRI SULAWESI TENGGARA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
-#EXTINF:-1,(ID) TVRI SULAWESI TENGAH
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
-#EXTINF:-1,(ID) TVRI SULAWESI UTARA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
-#EXTINF:-1,(ID) TVRI GORONTALO
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
-#EXTINF:-1,(ID) TVRI MALUKU
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
-#EXTINF:-1,(ID) TVRI PAPUA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
-#EXTINF:-1,Unknown 17
-http://ipx6.streamstorm.to:8005/get.php?username=tmp-test&password=tmp-test1&type=m3u
-#EXTINF:-1,Unknown 20
-http://51.15.161.236:25461/get.php?username=allchannels&password=all_pannels&type=m3u
-#EXTINF:-1,Unknown 37
-http://us.softservicex.com:2086/get.php?username=joker&password=joker&type=m3u
-#EXTINF:-1,Unknown 49
-http://gtv2.tn:8000/get.php?username=hamzasrikou&password=123HAMZA&type=m3u
-#EXTINF:-1,Unknown 50
-http://151.80.100.155:25443/get.php?username=vodall&password=vrIzSCaxGN&type=m3u
-#EXTINF:-1,Unknown 66
-http://163.172.216.63:8000/get.php?username=kanale24TV_ne_PlayStore_20.JaNaR&password=GeriolRama_IPTVKosova20JaNaR.&type=m3u
-#EXTINF:-1,Unknown 71
-http://ipx6.streamstorm.to:8005/get.php?username=tmp-test&password=tmp-test1&type=m3u_plus
-#EXTINF:-1,Unknown 72
-http://gtv2.tn:8000/get.php?username=hamzasrikou&password=123HAMZA&type=m3u_plus
-#EXTINF:-1,Unknown 75
-http://qyshdush.dyndns.info:5500/get.php?username=atv1&password=8888&type=m3u_plus
-#EXTINF:-1,Unknown 80
-http://configuration.tn:8000/get.php?username=riadh3252&password=chaaben3252&type=m3u
-#EXTINF:-1,Unknown 94
-http://master.cystreams.com:25461/get.php?username=faros&password=farostv&type=m3u_plus
-#EXTINF:-1,Unknown 0
-http://tv.ultraiptv.org:80/get.php?username=wohrnncd&password=2BF444tvmv&type=m3u
-#EXTINF:-1,Unknown 2
-http://fpro.webvps.de:25443/get.php?username=Ha5AzfuxXU&password=aPMRumGDTM&type=m3u
-#EXTINF:-1,Unknown 3
-http://medotv.nl:8000/get.php?username=MoM10BvyMX&password=VwDP31z87H&type=m3u
-#EXTINF:-1,Unknown 4
-http://x1.bihnet.net:25461/get.php?username=kkvZDzpPow&password=wuw4yQ0dFu&type=m3u
-#EXTINF:-1,Unknown 6
-http://exclusive.goldvisio.com:8000/get.php?username=cirocasa&password=180419&type=m3u
-#EXTINF:-1,Unknown 7
-http://predator-ott.com:8000/get.php?username=EShjQJ4Yl7&password=bryIss8lPp&type=m3u
-#EXTINF:-1,Unknown 8
-http://voxtv.dynns.com:8000/get.php?username=arabic&password=arabic&type=m3u
-#EXTINF:-1,Unknown 12
-http://server.edentv.org:8000/get.php?username=duqjnqfk&password=59a35rQqcF&type=m3u
-#EXTINF:-1,Unknown 13
-http://clienteworld.com:2082/get.php?username=savio1&password=savio1&type=m3u
-#EXTINF:-1,Unknown 14
-http://spain.myftp.org:25461/get.php?username=SpainNew&password=R06yrF4fm4&type=m3u
-#EXTINF:-1,Unknown 15
-http://clienteworld.com:8080/get.php?username=SM&password=SM&type=m3u
-#EXTINF:-1,Unknown 16
-http://89.187.189.7:7879/get.php?username=0NiTyWoAOS&password=OuruquTObQ&type=m3u
-#EXTINF:-1,Unknown 18
-http://deluxeplay.live:80/get.php?username=wohrnncd&password=2BF444tvmv&type=m3u
-#EXTINF:-1,Unknown 21
-http://iptv.rent:8080/get.php?username=8fwijoczeo&password=l1dfvocau&type=m3u
-#EXTINF:-1,Unknown 22
-http://ok2.se:8000/get.php?username=t1BW2MsonF&password=1W8e4YB0Rl&type=m3u
-#EXTINF:-1,Unknown 23
-http://ok2.se:8000/get.php?username=w36VAuTpNP&password=UdVcqFUUkp&type=m3u
-#EXTINF:-1,Unknown 24
-http://ok2.se:8000/get.php?username=WWIVFMOE5e&password=JxtwZ8PE3e&type=m3u
-#EXTINF:-1,Unknown 25
-http://ok2.se:8000/get.php?username=y9pS9yg41y&password=rV1hyNdgd3&type=m3u
-#EXTINF:-1,Unknown 31
-http://190.2.148.82:80/get.php?username=UvW5HwdGbu&password=fbhsytxfve&type=m3u
-#EXTINF:-1,Unknown 32
-http://ictv.io:80/get.php?username=UvW5HwdGbu&password=fbhsytxfve&type=m3u
-#EXTINF:-1,TVRI - LOCAL
-http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,ANTV - LOCAL
-http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,TRANS7 - LOCAL
-http://202.80.222.130/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,METRO TV - LOCAL
-http://202.80.222.130/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,INDOSIAR - LOCAL
-http://202.80.222.130/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,TV ONE - LOCAL
-http://202.80.222.130/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,SCTV - LOCAL
-http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,TRANS TV - LOCAL
-http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,GLOBAL TV - LOCAL
-http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,NET TV - LOCAL
-http://202.80.222.130/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,RAJAWALI TV - LOCAL
-http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,BERITA SATU - LOCAL
-http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,JAKTV - LOCAL
-http://202.80.222.130/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,DAAI TV - LOCAL
-http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,AUTO GADGET
-http://202.80.222.130/000001/2/ch15060913243195524436/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,FOOD TRAVEL - LIFESTYLE
-http://202.80.222.130/000001/2/ch14041514171573823676/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,MNC CHANNEL - ENTERTAINMENT
-http://202.80.222.130/000001/2/ch18040213194357388223/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,KOMPAS TV
-http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,tc television https://5c21f7ec1999d.streamlock.net/8054/8054/chunklist_w364231614.m3u8
-https://5c21f7ec1999d.streamlock.net/8054/8054/chunklist_w364231614.m3u8
-#EXTINF:-1,TELEAMAZONAS http://173.212.247.99/hls/tvec4.m3u8
-http://173.212.247.99/hls/tvec4.m3u8
-#EXTINF:-1,NAT GEO WILD http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1,HBO 2 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1,http://oi65.tinypic.com/vwq45x.jpg"
-http://oi65.tinypic.com/vwq45x.jpg"
-#EXTINF:-1,http://oi67.tinypic.com/2u45zqd.jpg"
-http://oi67.tinypic.com/2u45zqd.jpg"
-#EXTINF:-1,http://oi64.tinypic.com/jpua1v.jpg"
-http://oi64.tinypic.com/jpua1v.jpg"
-#EXTINF:-1,http://www.multicanalcatamayo.com/cablevisiondondiego/images/ecuador_tv7_ec.png"
-http://www.multicanalcatamayo.com/cablevisiondondiego/images/ecuador_tv7_ec.png"
-#EXTINF:-1,http://i68.tinypic.com/ic8ok6.png"
-http://i68.tinypic.com/ic8ok6.png"
-#EXTINF:-1,http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png"
-http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png"
-#EXTINF:-1,IPE http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",TECNOTV SMARTV
+http://tecnotv.club/20ago21/0smartv.php?c=712&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="INFO",17/8/2021
+http://tecnotv.club/20ago21/0smartv.php?c=712&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
+http://tecnotv.club/20ago21/0smartv.php?c=712&f=.m3u8
+
+#EXTINF:-1 logo="http://boomerang-tv.com/gallery/pro-ts1612273194.jpg" group-title="INFANTIL",Boomerang TV
+http://8.9.4.128:8080/hls/boomerangtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="INFANTIL", TV Galicia Xabarín
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="INFANTIL", Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL", Tooncast
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="INFANTIL", El Chavo 
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKHUnHT.png" group-title="INFANTIL", Monstruos de Verdad
+https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w780109170.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="INFANTIL", Dreiko TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rJZuk0.png" group-title="INFANTIL", Mi TV
+http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7uBm8j5.png" group-title="INFANTIL", Retro TV Palmares
+http://tvretropalmares.com:8090/hls/envivo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="INFANTIL", Ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1,COSMOS http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8
-http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8
-#EXTINF:-1,TV PERU http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1,PANAMERICANA https://cdnhd.iblups.com/hls/ptv2.m3u8
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1,ANTARES TV http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1,CTC TV http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
-http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
-#EXTINF:-1,CULTURA 24 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-#EXTINF:-1,BHTV PERU http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
-#EXTINF:-1,CENTRAL TV PERU http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1,ANIMAL PLANET http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
-#EXTINF:-1,LOCOMOTION http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:-1,CINEMAX http://23.237.122.82:8080/Cinemax/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=164
-http://23.237.122.82:8080/Cinemax/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=164
-#EXTINF:-1,ADN 40 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master02.m3u8
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master02.m3u8
-#EXTINF:-1,Teleformula http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1,FOROTV https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
-https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
-#EXTINF:-1,Milenio http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1,Miami TV http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="INFANTIL", Educa  TV
+https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="INFANTIL", Simpson
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:-1 logo="https://wowelsalvador.com/images/wow.fw.png" group-title="ENTRETENIMIENTO",Wow TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+
+#EXTINF:-1 logo="https://www.televall.online/gallery/amas-loqueves_thumb_wrd3itw6.png" group-title="TV PREMIUM",A MAS MX
+http://tecnotv.club/20ago21/smartv.php?c=amas
+#EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb_a5jlovsb.png" group-title="TV PREMIUM",AZTECA UNO MX
+http://tecnotv.club/20ago21/smartv.php?c=aztecauno
+#EXTINF:-1 logo="https://www.televall.online/gallery/canal2_thumb_p29d2q2o.png" group-title="TV PREMIUM",EL DOS MX
+http://tecnotv.club/20ago21/smartv.php?c=eldos
+#EXTINF:-1 logo="https://www.televall.online/gallery/canal5hd_thumb_eerrsbn4.png" group-title="TV PREMIUM",CANAL 5 MX
+http://tecnotv.club/20ago21/smartv.php?c=elcinco
+#EXTINF:-1 logo="https://www.televall.online/gallery/azteca_7_thumb_s3py9w9m.png" group-title="TV PREMIUM",AZTECA 7
+http://tecnotv.club/20ago21/smartv.php?c=azteca7
+#EXTINF:-1 logo="https://www.televall.online/gallery/canal-nueve_thumb.png" group-title="TV PREMIUM",EL NUEVE MX
+http://tecnotv.club/20ago21/smartv.php?c=elnueve
+#EXTINF:-1 logo="https://www.televall.online/gallery/imagen-television_thumb.png" group-title="TV PREMIUM",IMAGEN TV
+http://tecnotv.club/20ago21/smartv.php?c=imagentv
+#EXTINF:-1 logo="https://www.televall.online/gallery/multimedios_thumb_8l82qlv6.png" group-title="TV PREMIUM",MULTIMEDIOS
+http://tecnotv.club/20ago21/smartv.php?c=multimedios
+#EXTINF:-1 logo="https://www.televall.online/gallery/once-tv_thumb.png" group-title="TV PREMIUM",ONCE TV
+http://tecnotv.club/20ago21/smartv.php?c=
+#EXTINF:-1 logo="https://www.televall.online/gallery/canalonce_thumb_ooo415ez.png" group-title="TV PREMIUM",ONCE TV HD
+http://tecnotv.club/20ago21/smartv.php?c=oncetvhd
+#EXTINF:-1 logo="https://www.televall.online/gallery/distritocomediahd_thumb_hesl6u2t.png" group-title="TV PREMIUM",DISTRITO COMEDIA
+http://tecnotv.club/20ago21/smartv.php?c=distrito
+#EXTINF:-1 logo="https://www.televall.online/gallery/unicable_thumb_tnkgb3wz.png" group-title="TV PREMIUM",UNICABLE MX
+http://tecnotv.club/20ago21/smartv.php?c=unicable
+#EXTINF:-1 logo="https://www.televall.online/gallery/mvstv_thumb_u2i62ke7.png" group-title="TV PREMIUM",MVSTV MX
+http://tecnotv.club/20ago21/smartv.php?c=mvstv
+#EXTINF:-1 logo="https://www.televall.online/gallery/antena3-int_thumb_7j9k74ko.png" group-title="TV PREMIUM",ANTENA 3 Int
+http://tecnotv.club/20ago21/smartv.php?c=antena3int
+#EXTINF:-1 logo="https://www.televall.online/gallery/atreseries_thumb_7fhcmyie.png" group-title="TV PREMIUM",A3 SERIES
+http://tecnotv.club/20ago21/smartv.php?c=a3series
+#EXTINF:-1 logo="https://www.televall.online/gallery/startve_thumb_jf931eul.png" group-title="TV PREMIUM",STAR TVE
+http://tecnotv.club/20ago21/smartv.php?c=startve
+#EXTINF:-1 logo="https://www.televall.online/gallery/tve_thumb.png" group-title="TV PREMIUM",TVE
+http://tecnotv.club/20ago21/smartv.php?c=tve
+#EXTINF:-1 logo="https://www.televall.online/gallery/caracol-hd_thumb_spazm8wx.png" group-title="TV PREMIUM",CARACOL
+http://tecnotv.club/20ago21/smartv.php?c=caracol
+#EXTINF:-1 logo="https://www.televall.online/gallery/rcn_thumb_0ldmlhlo.png" group-title="TV PREMIUM",RCN
+http://tecnotv.club/20ago21/smartv.php?c=rcn
+#EXTINF:-1 logo="https://www.televall.online/gallery/galavision_thumb_2v9wmkcw.png" group-title="TV PREMIUM",GALAVISION
+http://tecnotv.club/20ago21/smartv.php?c=galavision
+#EXTINF:-1 logo="https://www.televall.online/gallery/glitz_thumb_j4nnbb5s.png" group-title="TV PREMIUM",GLITZ
+http://tecnotv.club/20ago21/smartv.php?c=glitz
+#EXTINF:-1 logo="https://www.televall.online/gallery/telemundo_thumb_onsiuk1z.png" group-title="TV PREMIUM",TELEMUNDO
+http://tecnotv.club/20ago21/smartv.php?c=telemundo
+#EXTINF:-1 logo="https://www.televall.online/gallery/telemundoint_thumb_jjc1lwt1.png" group-title="TV PREMIUM",TELEMUNDO Internacional
+http://tecnotv.club/20ago21/smartv.php?c=telemundoint
+#EXTINF:-1 logo="https://www.televall.online/gallery/unimas_thumb_tk055yz7.png" group-title="TV PREMIUM",UNIMAS
+http://tecnotv.club/20ago21/smartv.php?c=unimas
+#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-corazon_thumb.png" group-title="TV PREMIUM",AZ CORAZON
+http://tecnotv.club/20ago21/smartv.php?c=azcorazon
+#EXTINF:-1 logo="https://www.televall.online/gallery/a-e_thumb.png" group-title="TV PREMIUM",A&amp;E
+http://tecnotv.club/20ago21/smartv.php?c=ae
+#EXTINF:-1 logo="https://www.televall.online/gallery/axn_thumb.png" group-title="TV PREMIUM",AXN
+http://tecnotv.club/20ago21/smartv.php?c=axn
+#EXTINF:-1 logo="https://www.televall.online/gallery/comedy-central_thumb.png" group-title="TV PREMIUM",COMEDY CENTRAL
+http://tecnotv.club/20ago21/smartv.php?c=comedy
+#EXTINF:-1 logo="https://www.televall.online/gallery/E-_HD_thumb.png" group-title="TV PREMIUM",Entertaiment
+http://tecnotv.club/20ago21/smartv.php?c=e
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox_thumb_cefhl8mp.png" group-title="TV PREMIUM",FOX Channel
+http://tecnotv.club/20ago21/smartv.php?c=starch
+#EXTINF:-1 logo="https://www.televall.online/gallery/foxlife_thumb.png" group-title="TV PREMIUM",FOX LIFE
+http://tecnotv.club/20ago21/smartv.php?c=starlife
+#EXTINF:-1 logo="https://www.televall.online/gallery/fx_thumb.png" group-title="TV PREMIUM",FX
+http://tecnotv.club/20ago21/smartv.php?c=fx
+#EXTINF:-1 logo="https://www.televall.online/gallery/id-hd_thumb.png" group-title="TV PREMIUM",INVESTIGATION Discovery
+http://tecnotv.club/20ago21/smartv.php?c=id
+#EXTINF:-1 logo="https://www.televall.online/gallery/pasiones_thumb_fkxxp3uh.png" group-title="TV PREMIUM",PASIONES
+http://tecnotv.club/20ago21/smartv.php?c=pasiones
+#EXTINF:-1 logo="https://www.televall.online/gallery/rcn-novelas_thumb.png" group-title="TV PREMIUM",RCN Novelas
+http://tecnotv.club/20ago21/smartv.php?c=univtln
+#EXTINF:-1 logo="https://www.televall.online/gallery/sonyhd_thumb.png" group-title="TV PREMIUM",SONY Channel
+http://tecnotv.club/20ago21/smartv.php?c=sony
+#EXTINF:-1 logo="https://www.televall.online/gallery/tlnovelas_thumb.png" group-title="TV PREMIUM",TLNovelas
+http://tecnotv.club/20ago21/smartv.php?c=tlnovelas
+#EXTINF:-1 logo="https://www.televall.online/gallery/tele-novelas_thumb.png" group-title="TV PREMIUM",Tele Novelas
+http://tecnotv.club/20ago21/smartv.php?c=univtln
+#EXTINF:-1 logo="https://www.televall.online/gallery/tbs_thumb_tad28ban.png" group-title="TV PREMIUM",TBS
+http://tecnotv.club/20ago21/smartv.php?c=tbs
+#EXTINF:-1 logo="https://www.televall.online/gallery/tnt-series_thumb.png" group-title="TV PREMIUM",TNT Series
+http://tecnotv.club/20ago21/smartv.php?c=tntseries
+#EXTINF:-1 logo="https://www.televall.online/gallery/true_tv_thumb.png" group-title="TV PREMIUM",TRU TV
+http://tecnotv.club/20ago21/smartv.php?c=trutv
+#EXTINF:-1 logo="https://www.televall.online/gallery/universal-channel_thumb.png" group-title="TV PREMIUM",UNIVERSAL TV
+http://tecnotv.club/20ago21/smartv.php?c=universal
+#EXTINF:-1 logo="https://www.televall.online/gallery/warner-hd_thumb.png" group-title="TV PREMIUM",WARNER TV
+http://tecnotv.club/20ago21/smartv.php?c=warner
+#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-cinema_thumb.png" group-title="TV PREMIUM",AZ CINEMA
+http://tecnotv.club/20ago21/smartv.php?c=azcinema
+#EXTINF:-1 logo="https://www.televall.online/gallery/amc_thumb.png" group-title="TV PREMIUM",AMC
+http://tecnotv.club/20ago21/smartv.php?c=amc
+#EXTINF:-1 logo="https://www.televall.online/gallery/cinecanal_thumb.png" group-title="TV PREMIUM",CINECANAL
+http://tecnotv.club/20ago21/smartv.php?c=cinecanal
+#EXTINF:-1 logo="https://www.televall.online/gallery/cinemax_thumb.png" group-title="TV PREMIUM",CINEMAX
+http://tecnotv.club/20ago21/smartv.php?c=cinemax
+#EXTINF:-1 logo="https://www.televall.online/gallery/de-pelicula_thumb.png" group-title="TV PREMIUM",DE PELICULA
+http://tecnotv.club/20ago21/smartv.php?c=d
+#EXTINF:-1 logo="https://www.televall.online/gallery/De-Pelicula-Plus_thumb.png" group-title="TV PREMIUM",DE PELICULA PLUS
+http://tecnotv.club/20ago21/smartv.php?c=d
+#EXTINF:-1 logo="https://www.televall.online/gallery/dhe_thumb_ok5f5kdb.png" group-title="TV PREMIUM",DHE
+http://tecnotv.club/20ago21/smartv.php?c=dhe
+#EXTINF:-1 logo="https://www.televall.online/gallery/europa-europa_thumb.png" group-title="TV PREMIUM",EUROPA
+http://tecnotv.club/20ago21/smartv.php?c=eur
+#EXTINF:-1 logo="https://www.televall.online/gallery/film-arts_thumb.png" group-title="TV PREMIUM",FILM &amp; ARTS
+http://tecnotv.club/20ago21/smartv.php?c=filmarts
+#EXTINF:-1 logo="https://www.televall.online/gallery/fxm_thumb.png" group-title="TV PREMIUM",FXM
+http://tecnotv.club/20ago21/smartv.php?c=fxm
+#EXTINF:-1 logo="https://www.televall.online/gallery/i-sat_thumb_xml0yvbq.png" group-title="TV PREMIUM",ISAT
+http://tecnotv.club/20ago21/smartv.php?c=isat
+#EXTINF:-1 logo="https://www.televall.online/gallery/multicinema_thumb.png" group-title="TV PREMIUM",MULTICINEMA
+http://tecnotv.club/20ago21/smartv.php?c=mc
+#EXTINF:-1 logo="https://www.televall.online/gallery/multipremier_thumb_qicukxz0.png" group-title="TV PREMIUM",MULTIPREMIER
+http://tecnotv.club/20ago21/smartv.php?c=
+#EXTINF:-1 logo="https://www.televall.online/gallery/morbido_thumb.png" group-title="TV PREMIUM",MORBIDO
+http://tecnotv.club/20ago21/smartv.php?c=morbido
+#EXTINF:-1 logo="https://www.televall.online/gallery/paramount-channel_thumb.png" group-title="TV PREMIUM",PARAMOUNT Channel
+http://tecnotv.club/20ago21/smartv.php?c=paramount
+#EXTINF:-1 logo="https://www.televall.online/gallery/space_thumb.png" group-title="TV PREMIUM",SPACE
+http://tecnotv.club/20ago21/smartv.php?c=
+#EXTINF:-1 logo="https://www.televall.online/gallery/studio-universal_thumb.png" group-title="TV PREMIUM",STUDIO Universal
+http://tecnotv.club/20ago21/smartv.php?c=studiouniversal
+#EXTINF:-1 logo="https://www.televall.online/gallery/syfy_thumb.png" group-title="TV PREMIUM",SYFY
+http://tecnotv.club/20ago21/smartv.php?c=syfy
+#EXTINF:-1 logo="https://www.televall.online/gallery/tcm_thumb_3s6zdvdf.png" group-title="TV PREMIUM",TCM
+http://tecnotv.club/20ago21/smartv.php?c=tcm
+#EXTINF:-1 logo="https://www.televall.online/gallery/tnthd_thumb.png" group-title="TV PREMIUM",TNT
+http://tecnotv.club/20ago21/smartv.php?c=tnt
+#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-mundo_thumb.png" group-title="TV PREMIUM",AZ MUNDO
+http://tecnotv.club/20ago21/smartv.php?c=azmundo
+#EXTINF:-1 logo="https://www.televall.online/gallery/animal-planet_thumb.png" group-title="TV PREMIUM",ANIMAL Planet
+http://tecnotv.club/20ago21/smartv.php?c=anima
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery_thumb_w785xec9.png" group-title="TV PREMIUM",DISCOVERY Channel
+http://tecnotv.club/20ago21/smartv.php?c=discoverych
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-sciencie_thumb.png" group-title="TV PREMIUM",Discovery SCIENCE
+http://tecnotv.club/20ago21/smartv.php?c=dciencia
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-civilization_thumb_w24lqaof.png" group-title="TV PREMIUM",Discovery CIVILIZATION
+http://tecnotv.club/20ago21/smartv.php?c=dcivil
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_94ztnt5r.png" group-title="TV PREMIUM",Discovery THEATER
+http://tecnotv.club/20ago21/smartv.php?c=dtheater
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-turbo_thumb.png" group-title="TV PREMIUM",Discovery TURBO
+http://tecnotv.club/20ago21/smartv.php?c=dturbo
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-world_thumb.png" group-title="TV PREMIUM",Discovery WORLD
+http://tecnotv.club/20ago21/smartv.php?c=dworld
+#EXTINF:-1 logo="https://www.televall.online/gallery/food-network_thumb_k4cddex2.png" group-title="TV PREMIUM",FOOD Network
+http://tecnotv.club/20ago21/smartv.php?c=food
+#EXTINF:-1 logo="https://www.televall.online/gallery/gourmet-hd_thumb.png" group-title="TV PREMIUM",EL GOURMET
+http://tecnotv.club/20ago21/smartv.php?c=gourmet
+#EXTINF:-1 logo="https://www.televall.online/gallery/lifetime_thumb_854rm6sc.png" group-title="TV PREMIUM",LIFE TIME
+http://tecnotv.club/20ago21/smartv.php?c=lifetime
+#EXTINF:-1 logo="https://www.televall.online/gallery/history-channel_thumb_52xiseat.png" group-title="TV PREMIUM",HISTORY Channel
+http://tecnotv.club/20ago21/smartv.php?c=history
+#EXTINF:-1 logo="https://www.televall.online/gallery/h2_thumb_3qp9wks3.png" group-title="TV PREMIUM",Histrory 2
+http://tecnotv.club/20ago21/smartv.php?c=h2
+#EXTINF:-1 logo="https://www.televall.online/gallery/h-h_thumb_1hls1zvi.png" group-title="TV PREMIUM",Home &amp; Health
+http://tecnotv.club/20ago21/smartv.php?c=hh
+#EXTINF:-1 logo="https://www.televall.online/gallery/holatvhd_thumb_42ck5xt3.png" group-title="TV PREMIUM",HOLA TV
+http://tecnotv.club/20ago21/smartv.php?c=holatv
+#EXTINF:-1 logo="https://www.televall.online/gallery/maschic-hd_thumb_bmnkvny5.png" group-title="TV PREMIUM",MAS CHIC
+http://tecnotv.club/20ago21/smartv.php?c=maschic
+#EXTINF:-1 logo="https://www.televall.online/gallery/natgeo_thumb.png" group-title="TV PREMIUM",NATGEO
+http://tecnotv.club/20ago21/smartv.php?c=natgeo
+#EXTINF:-1 logo="https://www.televall.online/gallery/nat-geo-wild_thumb.png" group-title="TV PREMIUM",Natgeo WILD
+http://tecnotv.club/20ago21/smartv.php?c=natgeowild
+#EXTINF:-1 logo="https://www.televall.online/gallery/tlc-discovery_thumb.png" group-title="TV PREMIUM",TLC Discovery
+http://tecnotv.club/20ago21/smartv.php?c=tlc
+#EXTINF:-1 logo="https://www.televall.online/gallery/premium-tv_thumb_hy4j02xv.png" group-title="TV PREMIUM",PREMIUM TV
+http://tecnotv.club/20ago21/smartv.php?c=
+#EXTINF:-1 logo="https://www.televall.online/gallery/kids_thumb_35iyjg32.png" group-title="TV PREMIUM",INFANTILES
+http://tecnotv.club/20ago21/smartv.php?c=
+#EXTINF:-1 logo="https://www.televall.online/gallery/musica-m_thumb.png" group-title="TV PREMIUM",MUSICA
+http://tecnotv.club/20ago21/smartv.php?c=
+#EXTINF:-1 logo="https://www.televall.online/gallery/atv_thumb_ogtaz4l4.png" group-title="TV PREMIUM",ATV PE
+http://tecnotv.club/20ago21/smartv.php?c=atv
+#EXTINF:-1 logo="https://www.televall.online/gallery/telemundo_thumb_pm42cso6.png" group-title="TV PREMIUM",TELEMUNDO
+http://tecnotv.club/20ago21/smartv.php?c=telemundo
+#EXTINF:-1 logo="https://www.televall.online/gallery/azteca_7_thumb_z8j9a9k6.png" group-title="TV PREMIUM",AZTECA 7
+http://tecnotv.club/20ago21/smartv.php?c=azteca7
+#EXTINF:-1 logo="https://www.televall.online/gallery/azteca7_hd_thumb_kx43r8w4.png" group-title="TV PREMIUM",AZTECA 7 HD
+http://tecnotv.club/20ago21/smartv.php?c=azteca7hd
+#EXTINF:-1 logo="https://www.televall.online/gallery/imagen-television_thumb_lt3bmioc.png" group-title="TV PREMIUM",IMAGEN TV
+http://tecnotv.club/20ago21/smartv.php?c=imagentv
+#EXTINF:-1 logo="https://www.televall.online/gallery/canal2_thumb_c0tdyvib.png" group-title="TV PREMIUM",EL DOS MX
+http://tecnotv.club/20ago21/smartv.php?c=eldos
+#EXTINF:-1 logo="https://www.televall.online/gallery/canal5_thumb.png" group-title="TV PREMIUM",EL CINCO MX
+http://tecnotv.club/20ago21/smartv.php?c=elcinco
+#EXTINF:-1 logo="https://www.televall.online/gallery/canal5hd_thumb_hbzbxtre.png" group-title="TV PREMIUM",EL CINCO MX HD
+http://tecnotv.club/20ago21/smartv.php?c=elcincohd
+#EXTINF:-1 logo="https://www.televall.online/gallery/universo_thumb.png" group-title="TV PREMIUM",UNIVERSO
+http://tecnotv.club/20ago21/smartv.php?c=universo
+#EXTINF:-1 logo="https://www.televall.online/gallery/amas-loqueves_thumb_vnp10hdh.png" group-title="TV PREMIUM",A MAS MX
+http://tecnotv.club/20ago21/smartv.php?c=amas
+#EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb_qzhjpcjg.png" group-title="TV PREMIUM",AZTECA UNO MX
+http://tecnotv.club/20ago21/smartv.php?c=aztecauno
+#EXTINF:-1 logo="https://www.televall.online/gallery/canal-nueve_thumb_k6waf67p.png" group-title="TV PREMIUM",EL NUEVE MX
+http://tecnotv.club/20ago21/smartv.php?c=elnueve
+#EXTINF:-1 logo="https://www.televall.online/gallery/canalonce_thumb_etmf8k7r.png" group-title="TV PREMIUM",ONCE TV
+http://tecnotv.club/20ago21/smartv.php?c=
+#EXTINF:-1 logo="https://www.televall.online/gallery/canal22_thumb.png" group-title="TV PREMIUM",CANAL 22
+http://tecnotv.club/20ago21/smartv.php?c=canal22
+#EXTINF:-1 logo="https://www.televall.online/gallery/multimedios_thumb_1ofztmcu.png" group-title="TV PREMIUM",MULTIMEDIOS
+http://tecnotv.club/20ago21/smartv.php?c=multimedios
+#EXTINF:-1 logo="https://www.televall.online/gallery/distritocomediahd_thumb_mcnzeyl4.png" group-title="TV PREMIUM",DISTRITO COMEDIA
+http://tecnotv.club/20ago21/smartv.php?c=distrito
+#EXTINF:-1 logo="https://www.televall.online/gallery/unicable_thumb_sjrqxgyp.png" group-title="TV PREMIUM",UNICABLE MX
+http://tecnotv.club/20ago21/smartv.php?c=unicable
+#EXTINF:-1 logo="https://www.televall.online/gallery/mvstv_thumb_gzn6vx85.png" group-title="TV PREMIUM",MVSTV MX
+http://tecnotv.club/20ago21/smartv.php?c=mvstv
+#EXTINF:-1 logo="https://www.televall.online/gallery/antena3-int_thumb_rqi0xknx.png" group-title="TV PREMIUM",ANTENA 3 Int
+http://tecnotv.club/20ago21/smartv.php?c=antena3int
+#EXTINF:-1 logo="https://www.televall.online/gallery/atreseries_thumb_t1n3i8af.png" group-title="TV PREMIUM",A3 SERIES
+http://tecnotv.club/20ago21/smartv.php?c=a3series
+#EXTINF:-1 logo="https://www.televall.online/gallery/startve_thumb_8hmptgtk.png" group-title="TV PREMIUM",STAR TVE
+http://tecnotv.club/20ago21/smartv.php?c=startve
+#EXTINF:-1 logo="https://www.televall.online/gallery/tve_thumb_qqjtz6zo.png" group-title="TV PREMIUM",TVE
+http://tecnotv.club/20ago21/smartv.php?c=tve
+#EXTINF:-1 logo="https://www.televall.online/gallery/galavision_thumb_3i7ogk78.png" group-title="TV PREMIUM",GALAVISION
+http://tecnotv.club/20ago21/smartv.php?c=galavision
+#EXTINF:-1 logo="https://www.televall.online/gallery/glitz_thumb_vtxvtu67.png" group-title="TV PREMIUM",GLITZ
+http://tecnotv.club/20ago21/smartv.php?c=glitz
+#EXTINF:-1 logo="https://www.televall.online/gallery/telemundoint_thumb_p7xebjba.png" group-title="TV PREMIUM",TELEMUNDO Internacional
+http://tecnotv.club/20ago21/smartv.php?c=telemundoint
+#EXTINF:-1 logo="https://www.televall.online/gallery/unimas_thumb_wxa71tym.png" group-title="TV PREMIUM",UNIMAS
+http://tecnotv.club/20ago21/smartv.php?c=unimas
+#EXTINF:-1 logo="https://www.televall.online/gallery/univision-byn_thumb.png" group-title="TV PREMIUM",UNIV
+http://tecnotv.club/20ago21/smartv.php?c=univ-1
+#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-corazon_thumb_2y0z1mzn.png" group-title="TV PREMIUM",AZ CORAZON
+http://tecnotv.club/20ago21/smartv.php?c=azcorazon
+#EXTINF:-1 logo="https://www.televall.online/gallery/a-e_thumb_aet0jyrv.png" group-title="TV PREMIUM",A&amp;E
+http://tecnotv.club/20ago21/smartv.php?c=ae
+#EXTINF:-1 logo="https://www.televall.online/gallery/axn_thumb_jb4r8ldj.png" group-title="TV PREMIUM",AXN
+http://tecnotv.club/20ago21/smartv.php?c=axn
+#EXTINF:-1 logo="https://www.televall.online/gallery/comedy-central_thumb_7wsjaz71.png" group-title="TV PREMIUM",COMEDY CENTRAL
+http://tecnotv.club/20ago21/smartv.php?c=comedy
+#EXTINF:-1 logo="https://www.televall.online/gallery/E-_HD_thumb_ubsuu763.png" group-title="TV PREMIUM",Entertaiment
+http://tecnotv.club/20ago21/smartv.php?c=e
+#EXTINF:-1 logo="https://www.televall.online/gallery/fx_thumb_893wqbrx.png" group-title="TV PREMIUM",FX
+http://tecnotv.club/20ago21/smartv.php?c=fx
+#EXTINF:-1 logo="https://www.televall.online/gallery/id-hd_thumb_5eopp6dh.png" group-title="TV PREMIUM",INVESTIGATION Discovery
+http://tecnotv.club/20ago21/smartv.php?c=id
+#EXTINF:-1 logo="https://www.televall.online/gallery/pasiones_thumb_kgs5tfda.png" group-title="TV PREMIUM",PASIONES
+http://tecnotv.club/20ago21/smartv.php?c=pasiones
+#EXTINF:-1 logo="https://www.televall.online/gallery/sonyhd_thumb_7r585x1b.png" group-title="TV PREMIUM",SONY Channel
+http://tecnotv.club/20ago21/smartv.php?c=sony
+#EXTINF:-1 logo="https://www.televall.online/gallery/tbs_thumb_51jyhhtw.png" group-title="TV PREMIUM",TBS
+http://tecnotv.club/20ago21/smartv.php?c=tbs
+#EXTINF:-1 logo="https://www.televall.online/gallery/tele-novelas_thumb_4uevbhcn.png" group-title="TV PREMIUM",Tele Novelas
+http://tecnotv.club/20ago21/smartv.php?c=univtln
+#EXTINF:-1 logo="https://www.televall.online/gallery/tlnovelas_thumb_xb9ee19s.png" group-title="TV PREMIUM",TLNovelas
+http://tecnotv.club/20ago21/smartv.php?c=tlnovelas
+#EXTINF:-1 logo="https://www.televall.online/gallery/tnt-series_thumb_wtoy5jr7.png" group-title="TV PREMIUM",TNT Series
+http://tecnotv.club/20ago21/smartv.php?c=tntseries
+#EXTINF:-1 logo="https://www.televall.online/gallery/true_tv_thumb_dcjone03.png" group-title="TV PREMIUM",TRU TV
+http://tecnotv.club/20ago21/smartv.php?c=trutv
+#EXTINF:-1 logo="https://www.televall.online/gallery/universal-channel_thumb_mw0y1iyp.png" group-title="TV PREMIUM",UNIVERSAL TV
+http://tecnotv.club/20ago21/smartv.php?c=universal
+#EXTINF:-1 logo="https://www.televall.online/gallery/warner-hd_thumb_fhauomx4.png" group-title="TV PREMIUM",WARNER TV
+http://tecnotv.club/20ago21/smartv.php?c=warner
+#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-cinema_thumb_rr2otvqk.png" group-title="TV PREMIUM",AZ CINEMA
+http://tecnotv.club/20ago21/smartv.php?c=azcinema
+#EXTINF:-1 logo="https://www.televall.online/gallery/amc_thumb_36hzyn0i.png" group-title="TV PREMIUM",AMC
+http://tecnotv.club/20ago21/smartv.php?c=amc
+#EXTINF:-1 logo="https://www.televall.online/gallery/cinecanal_thumb_a6si0aqd.png" group-title="TV PREMIUM",CINECANAL
+http://tecnotv.club/20ago21/smartv.php?c=cinecanal
+#EXTINF:-1 logo="https://www.televall.online/gallery/cinemax_thumb_uyjn9wjq.png" group-title="TV PREMIUM",CINEMAX
+http://tecnotv.club/20ago21/smartv.php?c=cinemax
+#EXTINF:-1 logo="https://www.televall.online/gallery/sony-cine_thumb.png" group-title="TV PREMIUM",CINE SONY
+http://tecnotv.club/20ago21/smartv.php?c=cinesony
+#EXTINF:-1 logo="https://www.televall.online/gallery/d-pelicula_thumb.png" group-title="TV PREMIUM",D PELICULA
+http://tecnotv.club/20ago21/smartv.php?c=d
+#EXTINF:-1 logo="https://www.televall.online/gallery/d-pelicula-clasico_thumb.png" group-title="TV PREMIUM",D PELICULA CLASICO
+http://tecnotv.club/20ago21/smartv.php?c=d
+#EXTINF:-1 logo="https://www.televall.online/gallery/d-pelicula-plus_thumb.png" group-title="TV PREMIUM",D PELICULA PLUS
+http://tecnotv.club/20ago21/smartv.php?c=d
+#EXTINF:-1 logo="https://www.televall.online/gallery/dhe_thumb_efxwccar.png" group-title="TV PREMIUM",DHE
+http://tecnotv.club/20ago21/smartv.php?c=dhe
+#EXTINF:-1 logo="https://www.televall.online/gallery/europa-europa_thumb_5fvv0zrs.png" group-title="TV PREMIUM",EUROPA
+http://tecnotv.club/20ago21/smartv.php?c=eur
+#EXTINF:-1 logo="https://www.televall.online/gallery/film-arts_thumb_hskiue4h.png" group-title="TV PREMIUM",FILM &amp; ARTS
+http://tecnotv.club/20ago21/smartv.php?c=filmarts
+#EXTINF:-1 logo="https://www.televall.online/gallery/fxm_thumb_0otuc3b6.png" group-title="TV PREMIUM",FXM
+http://tecnotv.club/20ago21/smartv.php?c=fxm
+#EXTINF:-1 logo="https://www.televall.online/gallery/i-sat_thumb_mrkjq36y.png" group-title="TV PREMIUM",ISAT
+http://tecnotv.club/20ago21/smartv.php?c=isat
+#EXTINF:-1 logo="https://www.televall.online/gallery/multicinema_thumb_v0dkfvdu.png" group-title="TV PREMIUM",MULTICINEMA
+http://tecnotv.club/20ago21/smartv.php?c=mc
+#EXTINF:-1 logo="https://www.televall.online/gallery/multipremier_thumb_6q6gc1w0.png" group-title="TV PREMIUM",MULTIPREMIER
+http://tecnotv.club/20ago21/smartv.php?c=
+#EXTINF:-1 logo="https://www.televall.online/gallery/morbido_thumb_afwniff2.png" group-title="TV PREMIUM",MORBIDO
+http://tecnotv.club/20ago21/smartv.php?c=morbido
+#EXTINF:-1 logo="https://www.televall.online/gallery/paramount-channel_thumb_4o89e82d.png" group-title="TV PREMIUM",PARAMOUNT Channel
+http://tecnotv.club/20ago21/smartv.php?c=paramount
+#EXTINF:-1 logo="https://www.televall.online/gallery/space_thumb_mlmt1j24.png" group-title="TV PREMIUM",SPACE
+http://tecnotv.club/20ago21/smartv.php?c=
+#EXTINF:-1 logo="https://www.televall.online/gallery/studio-universal_thumb_bznlwuul.png" group-title="TV PREMIUM",STUDIO Universal
+http://tecnotv.club/20ago21/smartv.php?c=studiouniversal
+#EXTINF:-1 logo="https://www.televall.online/gallery/syfy_thumb_uk8a7igg.png" group-title="TV PREMIUM",SYFY
+http://tecnotv.club/20ago21/smartv.php?c=syfy
+#EXTINF:-1 logo="https://www.televall.online/gallery/tcm_thumb_lbgqm4fy.png" group-title="TV PREMIUM",TCM
+http://tecnotv.club/20ago21/smartv.php?c=tcm
+#EXTINF:-1 logo="https://www.televall.online/gallery/tnthd_thumb_osuqe2yr.png" group-title="TV PREMIUM",TNT
+http://tecnotv.club/20ago21/smartv.php?c=tnt
+#EXTINF:-1 logo="https://www.televall.online/gallery/azteca-mundo_thumb_drbjrt59.png" group-title="TV PREMIUM",AZ MUNDO
+http://tecnotv.club/20ago21/smartv.php?c=azmundo
+#EXTINF:-1 logo="https://www.televall.online/gallery/animal-planet_thumb_umeu0s53.png" group-title="TV PREMIUM",ANIMAL Planet
+http://tecnotv.club/20ago21/smartv.php?c=anima
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery_thumb_557q3bh7.png" group-title="TV PREMIUM",DISCOVERY Channel
+http://tecnotv.club/20ago21/smartv.php?c=discoverych
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-sciencie_thumb_jpx4036r.png" group-title="TV PREMIUM",Discovery SCIENCE
+http://tecnotv.club/20ago21/smartv.php?c=dciencia
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-civilization_thumb_lgwg7wps.png" group-title="TV PREMIUM",Discovery CIVILIZATION
+http://tecnotv.club/20ago21/smartv.php?c=dcivil
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-theather-hd_thumb_57w0plxw.png" group-title="TV PREMIUM",Discovery THEATER
+http://tecnotv.club/20ago21/smartv.php?c=dtheater
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-turbo_thumb_mrk8u8o1.png" group-title="TV PREMIUM",Discovery TURBO
+http://tecnotv.club/20ago21/smartv.php?c=dturbo
+#EXTINF:-1 logo="https://www.televall.online/gallery/discovery-world_thumb_a4z1w08q.png" group-title="TV PREMIUM",Discovery WORLD
+http://tecnotv.club/20ago21/smartv.php?c=dworld
+#EXTINF:-1 logo="https://www.televall.online/gallery/food-network_thumb_fm8jvpw8.png" group-title="TV PREMIUM",FOOD Network
+http://tecnotv.club/20ago21/smartv.php?c=food
+#EXTINF:-1 logo="https://www.televall.online/gallery/gourmet-hd_thumb_gfkwfhhx.png" group-title="TV PREMIUM",EL GOURMET
+http://tecnotv.club/20ago21/smartv.php?c=gourmet
+#EXTINF:-1 logo="https://www.televall.online/gallery/lifetime_thumb_s1h9ixxd.png" group-title="TV PREMIUM",LIFE TIME
+http://tecnotv.club/20ago21/smartv.php?c=lifetime
+#EXTINF:-1 logo="https://www.televall.online/gallery/history-channel_thumb_su52wnw4.png" group-title="TV PREMIUM",HISTORY Channel
+http://tecnotv.club/20ago21/smartv.php?c=history
+#EXTINF:-1 logo="https://www.televall.online/gallery/h2_thumb_y6k2cd0x.png" group-title="TV PREMIUM",Histrory 2
+http://tecnotv.club/20ago21/smartv.php?c=h2
+#EXTINF:-1 logo="https://www.televall.online/gallery/h-h_thumb_vcsfnsms.png" group-title="TV PREMIUM",Home &amp; Health
+http://tecnotv.club/20ago21/smartv.php?c=hh
+#EXTINF:-1 logo="https://www.televall.online/gallery/holatvhd_thumb_m19ujz7i.png" group-title="TV PREMIUM",HOLA TV
+http://tecnotv.club/20ago21/smartv.php?c=holatv
+#EXTINF:-1 logo="https://www.televall.online/gallery/maschic-hd_thumb_pvr0jtbt.png" group-title="TV PREMIUM",MAS CHIC
+http://tecnotv.club/20ago21/smartv.php?c=maschic
+#EXTINF:-1 logo="https://www.televall.online/gallery/natgeo_thumb_jfx9xfle.png" group-title="TV PREMIUM",NATGEO
+http://tecnotv.club/20ago21/smartv.php?c=natgeo
+#EXTINF:-1 logo="https://www.televall.online/gallery/nat-geo-wild_thumb_0kd65hqz.png" group-title="TV PREMIUM",Natgeo WILD
+http://tecnotv.club/20ago21/smartv.php?c=natgeowild
+#EXTINF:-1 logo="https://www.televall.online/gallery/tlc-discovery_thumb_7dgud1ly.png" group-title="TV PREMIUM",TLC Discovery
+http://tecnotv.club/20ago21/smartv.php?c=tlc
+
+
+#EXTINF:-1 group-title="DEPORTES",AZTECA UNO MX
+http://tecnotv.club/20ago21/sport.php?c=aztecauno
+#EXTINF:-1 group-title="DEPORTES",CANAL 2 MX
+http://tecnotv.club/20ago21/sport.php?c=eldos
+#EXTINF:-1 group-title="DEPORTES",CANAL 5 MX
+http://tecnotv.club/20ago21/sport.php?c=elcinco
+#EXTINF:-1 group-title="DEPORTES",AZTECA 7 MX
+http://tecnotv.club/20ago21/sport.php?c=azteca7
+#EXTINF:-1 group-title="DEPORTES",NUEVE
+http://tecnotv.club/20ago21/sport.php?c=elnueve
+#EXTINF:-1 group-title="DEPORTES",IMAGEN TV
+http://tecnotv.club/20ago21/sport.php?c=imagentv
+#EXTINF:-1 group-title="DEPORTES",STAR ACTION
+http://tecnotv.club/20ago21/sport.php?c=staraction
+#EXTINF:-1 group-title="DEPORTES",SPACE
+http://tecnotv.club/20ago21/sport.php?c=space
+#EXTINF:-1 group-title="DEPORTES",ADRENALINA
+http://tecnotv.club/20ago21/sport.php?c=adrenalina
+#EXTINF:-1 group-title="DEPORTES",AFIZZIONADOS
+http://tecnotv.club/20ago21/sport.php?c=afizzionados
+#EXTINF:-1 group-title="DEPORTES",AyM Sports
+http://tecnotv.club/20ago21/sport.php?c=aymsports
+#EXTINF:-1 group-title="DEPORTES",BASKET AMERICAS
+http://tecnotv.club/20ago21/sport.php?c=basket
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS Ñ
+http://tecnotv.club/20ago21/sport.php?c=beines
+#EXTINF:-1 group-title="DEPORTES",BEIN US HD
+http://tecnotv.club/20ago21/sport.php?c=beinhd
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS
+http://tecnotv.club/20ago21/sport.php?c=directv
+#EXTINF:-1 group-title="DEPORTES",DIRECTV 2
+http://tecnotv.club/20ago21/sport.php?c=directv2
+#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS
+http://tecnotv.club/20ago21/sport.php?c=clarosports
+#EXTINF:-1 group-title="DEPORTES",ESPN Deportes
+http://tecnotv.club/20ago21/sport.php?c=espndep
+#EXTINF:-1 group-title="DEPORTES",ESPN 1 MX
+http://tecnotv.club/20ago21/sport.php?c=espn1-mx
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 MX
+http://tecnotv.club/20ago21/sport.php?c=espn2-mx
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 MX
+http://tecnotv.club/20ago21/sport.php?c=espn3-mx
+#EXTINF:-1 group-title="DEPORTES",ESPN EXTRA
+http://tecnotv.club/20ago21/sport.php?c=espnextra-mx
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 1 MX
+http://tecnotv.club/20ago21/sport.php?c=foxsports1-mx
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 MX
+http://tecnotv.club/20ago21/sport.php?c=foxsports2-mx
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 MX
+http://tecnotv.club/20ago21/sport.php?c=foxsports3-mx
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS PREMIUM
+http://tecnotv.club/20ago21/sport.php?c=foxsportsp
+#EXTINF:-1 group-title="DEPORTES",GALAVISION
+http://tecnotv.club/20ago21/sport.php?c=galavision
+#EXTINF:-1 group-title="DEPORTES",GOL PERU
+http://tecnotv.club/20ago21/sport.php?c=golperu
+#EXTINF:-1 group-title="DEPORTES",GOLTV
+http://tecnotv.club/20ago21/sport.php?c=goltv
+#EXTINF:-1 group-title="DEPORTES",GOLF CHANNEL
+http://tecnotv.club/20ago21/sport.php?c=golf
+#EXTINF:-1 group-title="DEPORTES",HAVOC
+http://tecnotv.club/20ago21/sport.php?c=havoc
+#EXTINF:-1 group-title="DEPORTES",NFL NETWORK
+http://tecnotv.club/20ago21/sport.php?c=nfl
+#EXTINF:-1 group-title="DEPORTES",LAS Deportes
+http://tecnotv.club/20ago21/sport.php?c=las
+#EXTINF:-1 group-title="DEPORTES",LALIGA
+http://tecnotv.club/20ago21/sport.php?c=laliga
+#EXTINF:-1 group-title="DEPORTES",M LALIGA
+http://tecnotv.club/20ago21/sport.php?c=mlaliga
+#EXTINF:-1 group-title="DEPORTES",M LIGA DE CAMPEONES
+http://tecnotv.club/20ago21/sport.php?c=mligadec
+#EXTINF:-1 group-title="DEPORTES",TELEMUNDO
+http://tecnotv.club/20ago21/sport.php?c=telemundo
+#EXTINF:-1 group-title="DEPORTES",TUDN MX
+http://tecnotv.club/20ago21/sport.php?c=tudn-mx
+#EXTINF:-1 group-title="DEPORTES",TUDN US
+http://tecnotv.club/20ago21/sport.php?c=tudn-us
+#EXTINF:-1 group-title="DEPORTES",TVC Deportes
+http://tecnotv.club/20ago21/sport.php?c=tvcdep-mx
+#EXTINF:-1 group-title="DEPORTES",TyC SPORTS
+http://tecnotv.club/20ago21/sport.php?c=tycsports
+#EXTINF:-1 group-title="DEPORTES",UNIMAS
+http://tecnotv.club/20ago21/sport.php?c=unimas
+#EXTINF:-1 group-title="DEPORTES",UNIVERSO
+http://tecnotv.club/20ago21/sport.php?c=universo
+#EXTINF:-1 group-title="DEPORTES",NBC SPORTS NET
+http://tecnotv.club/20ago21/sport.php?c=nbcsn
+#EXTINF:-1 group-title="DEPORTES",WIN SPORTS
+http://tecnotv.club/20ago21/sport.php?c=winsports
+#EXTINF:-1 group-title="DEPORTES",WIN SPORTS PLUS
+http://tecnotv.club/20ago21/sport.php?c=winplus
+#EXTINF:-1 group-title="DEPORTES",FIGHT TIME
+http://tecnotv.club/20ago21/sport.php?c=fight
+#EXTINF:-1 group-title="DEPORTES",UFC
+http://tecnotv.club/20ago21/sport.php?c=ufc
+#EXTINF:-1 group-title="DEPORTES",WWE
+http://tecnotv.club/20ago21/sport.php?c=wwe
+
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/assets/images/default/channel.id-featured-default.jpg" group-title="PLUTO TV", Pluto Tv
+http://tecnotv.club/20ago21/plutotv.php?c=5e793a7cfbdf780007f7eb75
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/featuredImage.jpg" group-title="PLUTO TV", Cine Suspenso
+http://tecnotv.club/20ago21/plutotv.php?c=5ddc4e8bcbb9010009b4e84f
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/featuredImage.jpg" group-title="PLUTO TV", Cine Accion
+http://tecnotv.club/20ago21/plutotv.php?c=5dcb62e63d4d8f0009f36881
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg" group-title="PLUTO TV", Estrellas en Accion
+http://tecnotv.club/20ago21/plutotv.php?c=5e972a21ad709d00074195ba
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg" group-title="PLUTO TV", Cine Comedia
+http://tecnotv.club/20ago21/plutotv.php?c=5dcdde78f080d900098550e4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/featuredImage.jpg" group-title="PLUTO TV", Cine Terror
+http://tecnotv.club/20ago21/plutotv.php?c=5dcddf1ed95e740009fef7ab
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/featuredImage.jpg" group-title="PLUTO TV", Viajes
+http://tecnotv.club/20ago21/plutotv.php?c=5dcddfbdb7cf0e0009ae09ea
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/featuredImage.jpg" group-title="PLUTO TV", Cine Drama
+http://tecnotv.club/20ago21/plutotv.php?c=5dcddfcb229eff00091b6bdf
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/featuredImage.jpg" group-title="PLUTO TV", Cocina
+http://tecnotv.club/20ago21/plutotv.php?c=5dcde0657444a40009cd2422
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/featuredImage.jpg" group-title="PLUTO TV", Deportes
+http://tecnotv.club/20ago21/plutotv.php?c=5dcde07af1c85b0009b18651
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/featuredImage.jpg" group-title="PLUTO TV", Novelas
+http://tecnotv.club/20ago21/plutotv.php?c=5dcde0cc2efd2700090b7ff4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/featuredImage.jpg" group-title="PLUTO TV", Series
+http://tecnotv.club/20ago21/plutotv.php?c=5dcde1317578340009b751d0
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg" group-title="PLUTO TV", Anime
+http://tecnotv.club/20ago21/plutotv.php?c=5dcde17bf6591d0009839e02
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/featuredImage.jpg" group-title="PLUTO TV", Reality
+http://tecnotv.club/20ago21/plutotv.php?c=5dcde197f6591d0009839e04
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/featuredImage.jpg" group-title="PLUTO TV", Investiga
+http://tecnotv.club/20ago21/plutotv.php?c=5dcde27ffae9520009c0c75a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/featuredImage.jpg" group-title="PLUTO TV", Junior
+http://tecnotv.club/20ago21/plutotv.php?c=5dcde2ac4bc6c500094ab45b
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg" group-title="PLUTO TV", Cine Estelar
+http://tecnotv.club/20ago21/plutotv.php?c=5dcde437229eff00091b6c30
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/featuredImage.jpg" group-title="PLUTO TV", Hogar
+http://tecnotv.club/20ago21/plutotv.php?c=5dd6ab8056beb000091fc6b6
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/featuredImage.jpg" group-title="PLUTO TV", Competencias
+http://tecnotv.club/20ago21/plutotv.php?c=5dd6d935d000120009bc1132
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/featuredImage.jpg" group-title="PLUTO TV", Kids
+http://tecnotv.club/20ago21/plutotv.php?c=5dd6dae8ce788b0009eaf77b
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/featuredImage.jpg" group-title="PLUTO TV", Velocidad
+http://tecnotv.club/20ago21/plutotv.php?c=5dd6dc7480e3550009133d4a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/featuredImage.jpg" group-title="PLUTO TV", Cine Familia
+http://tecnotv.club/20ago21/plutotv.php?c=5dd6ddb30a1d8a000908ed4c
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/featuredImage.jpg" group-title="PLUTO TV", Teen
+http://tecnotv.club/20ago21/plutotv.php?c=5dd6de52b9914200091f047a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/featuredImage.jpg" group-title="PLUTO TV", Cine Romance
+http://tecnotv.club/20ago21/plutotv.php?c=5dd7ea2aeab5230009986735
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/featuredImage.jpg" group-title="PLUTO TV", Animales
+http://tecnotv.club/20ago21/plutotv.php?c=5dd834c66fe2ca0009303b8d
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/featuredImage.jpg" group-title="PLUTO TV", Series Latinas
+http://tecnotv.club/20ago21/plutotv.php?c=5dd837642c6e9300098ad484
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/featuredImage.jpg" group-title="PLUTO TV", Naturaleza
+http://tecnotv.club/20ago21/plutotv.php?c=5dd85eac039bba0009e86d1d
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/featuredImage.jpg" group-title="PLUTO TV", Nick Clasico
+http://tecnotv.club/20ago21/plutotv.php?c=5ddd7c348520b40009c347e2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/featuredImage.jpg" group-title="PLUTO TV", Nick Jr Club
+http://tecnotv.club/20ago21/plutotv.php?c=5ddd7cb2cbb9010009b4fe32
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de58ef515635d00091f605d/featuredImage.jpg" group-title="PLUTO TV", Degrassi
+http://tecnotv.club/20ago21/plutotv.php?c=5de58ef515635d00091f605d
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/featuredImage.jpg" group-title="PLUTO TV", Series Retro
+http://tecnotv.club/20ago21/plutotv.php?c=5de802659167b10009e7deba
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/featuredImage.jpg" group-title="PLUTO TV", Mtv Classic
+http://tecnotv.club/20ago21/plutotv.php?c=5de91b7ea86ee60009d89e75
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/featuredImage.jpg" group-title="PLUTO TV", Telefe clasico
+http://tecnotv.club/20ago21/plutotv.php?c=5de91cf02fc07c0009910465
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/featuredImage.jpg" group-title="PLUTO TV", Cine
+http://tecnotv.club/20ago21/plutotv.php?c=5defde6d6c07b50009cf0757
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/featuredImage.jpg" group-title="PLUTO TV", MasterChef
+http://tecnotv.club/20ago21/plutotv.php?c=5e3ddbd27091820009f86dd9
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/featuredImage.jpg" group-title="PLUTO TV", Futbol para Fans
+http://tecnotv.club/20ago21/plutotv.php?c=5e3ddd1a3ef73b00091d5779
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/featuredImage.jpg" group-title="PLUTO TV", Minuto para Ganar
+http://tecnotv.club/20ago21/plutotv.php?c=5e46e64dc73db400094b5f0b
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/featuredImage.jpg" group-title="PLUTO TV", Los archivos del FBI
+http://tecnotv.club/20ago21/plutotv.php?c=5e67d41b93312100076f3fca
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/featuredImage.jpg" group-title="PLUTO TV", BABAR
+http://tecnotv.club/20ago21/plutotv.php?c=5e67e20c93312100076f3ffe
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/featuredImage.jpg" group-title="PLUTO TV", Anime Accion
+http://tecnotv.club/20ago21/plutotv.php?c=5e6a4d875d7ccf0007cc2cf1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e8f8e7598841d0007bf35b3/featuredImage.jpg" group-title="PLUTO TV", Comedy Central Stand-Up
+http://tecnotv.club/20ago21/plutotv.php?c=5e8f8e7598841d0007bf35b3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/featuredImage.jpg" group-title="PLUTO TV", Peleas
+http://tecnotv.club/20ago21/plutotv.php?c=5e98b0447665f200078caded
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/featuredImage.jpg" group-title="PLUTO TV", The New Detectives
+http://tecnotv.club/20ago21/plutotv.php?c=5ea71d48af1d0b0007d837f4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/featuredImage.jpg" group-title="PLUTO TV", Rugrats Crecidos
+http://tecnotv.club/20ago21/plutotv.php?c=5ea7215005d66d0007e8128a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/featuredImage.jpg" group-title="PLUTO TV", Star Trek
+http://tecnotv.club/20ago21/plutotv.php?c=5ec5761aabe4690007f6e047
+
+
+
+#EXTINF:-1 group-title="24/7",POWER RANGERS
+http://tecnotv.club/20ago21/24.php?c=303
+#EXTINF:-1 group-title="24/7",ROBOTECH
+http://tecnotv.club/20ago21/24.php?c=304
+#EXTINF:-1 group-title="24/7",SAILOR MOON
+http://tecnotv.club/20ago21/24.php?c=305
+#EXTINF:-1 group-title="24/7", LOS SIMPSON-
+http://tecnotv.club/20ago21/24.php?c=307
+#EXTINF:-1 group-title="24/7",SMALLVILLE
+http://tecnotv.club/20ago21/24.php?c=308
+#EXTINF:-1 group-title="24/7", SOUTH PARK
+http://tecnotv.club/20ago21/24.php?c=309
+#EXTINF:-1 group-title="24/7",SPIDER-MAN
+http://tecnotv.club/20ago21/24.php?c=310
+#EXTINF:-1 group-title="24/7",STRANGER THINGS
+http://tecnotv.club/20ago21/24.php?c=311
+#EXTINF:-1 group-title="24/7",SUPER CAMPEONES
+http://tecnotv.club/20ago21/24.php?c=312
+#EXTINF:-1 group-title="24/7",Peliculas de terror
+http://tecnotv.club/20ago21/24.php?c=313
+#EXTINF:-1 group-title="24/7",THUNDERCAST
+http://tecnotv.club/20ago21/24.php?c=314
+#EXTINF:-1 group-title="24/7", THE WALKING DEAD
+http://tecnotv.club/20ago21/24.php?c=315
+#EXTINF:-1 group-title="24/7",BARNY Y SUS AMIGOS
+http://tecnotv.club/20ago21/24.php?c=316
+#EXTINF:-1 group-title="24/7",BOB ESPONJA
+http://tecnotv.club/20ago21/24.php?c=317
+#EXTINF:-1 group-title="24/7", CAILLOU
+http://tecnotv.club/20ago21/24.php?c=318
+#EXTINF:-1 group-title="24/7",EL COYOTE Y CORRE CAMINOS
+http://tecnotv.club/20ago21/24.php?c=319
+#EXTINF:-1 group-title="24/7",DESAFIO SOBRE FUEGO LATIN AMERICA
+http://tecnotv.club/20ago21/24.php?c=320
+#EXTINF:-1 group-title="24/7",HAPPY TREE FRIENDS
+http://tecnotv.club/20ago21/24.php?c=321
+#EXTINF:-1 group-title="24/7",LA RISA EN VACIONES
+http://tecnotv.club/20ago21/24.php?c=322
+#EXTINF:-1 group-title="24/7",LAZY TOWN
+http://tecnotv.club/20ago21/24.php?c=323
+#EXTINF:-1 group-title="24/7",LA PANTERA ROSA
+http://tecnotv.club/20ago21/24.php?c=325
+#EXTINF:-1 group-title="24/7",PEPPA PIG
+http://tecnotv.club/20ago21/24.php?c=326
+#EXTINF:-1 group-title="24/7",LA HORA PICO
+http://tecnotv.club/20ago21/24.php?c=327
+#EXTINF:-1 group-title="24/7",HÉROES EN PIJAMAS
+http://tecnotv.club/20ago21/24.php?c=328
+#EXTINF:-1 group-title="24/7",Shark Tank México TEP 2
+http://tecnotv.club/20ago21/24.php?c=329
+#EXTINF:-1 group-title="24/7",Shark Tank México TEP 1
+http://tecnotv.club/20ago21/24.php?c=330
+#EXTINF:-1 group-title="24/7",XMEN ANIME
+http://tecnotv.club/20ago21/24.php?c=331
+#EXTINF:-1 group-title="24/7",BREAKING  BAD
+http://tecnotv.club/20ago21/24.php?c=332
+#EXTINF:-1 group-title="24/7",CABALLEROS DEL ZODIACO
+http://tecnotv.club/20ago21/24.php?c=333
+#EXTINF:-1 group-title="24/7",LA CASA DE PAPEL
+http://tecnotv.club/20ago21/24.php?c=334
+#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
+http://tecnotv.club/20ago21/24.php?c=335
+#EXTINF:-1 group-title="24/7",EL CHEMA
+http://tecnotv.club/20ago21/24.php?c=336
+#EXTINF:-1 group-title="24/7",EL SEÑOR DE LOS CIELOS
+http://tecnotv.club/20ago21/24.php?c=337
+#EXTINF:-1 group-title="24/7", CORAJE EL PERRO COBARDE
+http://tecnotv.club/20ago21/24.php?c=338
+#EXTINF:-1 group-title="24/7",CSI: MIAMI
+http://tecnotv.club/20ago21/24.php?c=339
+#EXTINF:-1 group-title="24/7", CUENTRO GREEM
+http://tecnotv.club/20ago21/24.php?c=340
+#EXTINF:-1 group-title="24/7",DRAGON BALL SUPER
+http://tecnotv.club/20ago21/24.php?c=341
+#EXTINF:-1 group-title="24/7",ALF
+http://tecnotv.club/20ago21/24.php?c=342
+#EXTINF:-1 group-title="24/7",SHERA
+http://tecnotv.club/20ago21/24.php?c=343
+#EXTINF:-1 group-title="24/7", DINOSAURIOS 1991
+http://tecnotv.club/20ago21/24.php?c=344
+#EXTINF:-1 group-title="24/7", DRAGON BALL 1984
+http://tecnotv.club/20ago21/24.php?c=345
+#EXTINF:-1 group-title="24/7",DRAGON BALL GT 1996
+http://tecnotv.club/20ago21/24.php?c=346
+#EXTINF:-1 group-title="24/7",DRAGON BALL Z 1989
+http://tecnotv.club/20ago21/24.php?c=347
+#EXTINF:-1 group-title="24/7",EL CHAPULIN COLORADO
+http://tecnotv.club/20ago21/24.php?c=348
+#EXTINF:-1 group-title="24/7",EL PATRON DEL MAL 
+http://tecnotv.club/20ago21/24.php?c=349
+#EXTINF:-1 group-title="24/7",PELICULAS ESTRENOS 2018
+http://tecnotv.club/20ago21/24.php?c=350
+#EXTINF:-1 group-title="24/7",FUTURAMA 1999
+http://tecnotv.club/20ago21/24.php?c=351
+#EXTINF:-1 group-title="24/7",JUEGO DE TRONOS
+http://tecnotv.club/20ago21/24.php?c=352
+#EXTINF:-1 group-title="24/7",He-Man
+http://tecnotv.club/20ago21/24.php?c=353
+#EXTINF:-1 group-title="24/7",LA ROSA DE GUADALUPE
+http://tecnotv.club/20ago21/24.php?c=354
+#EXTINF:-1 group-title="24/7",LOS LOCOS ADDAMS
+http://tecnotv.club/20ago21/24.php?c=355
+#EXTINF:-1 group-title="24/7",LA FAMILIA MONSTERS 1964
+http://tecnotv.club/20ago21/24.php?c=356
+#EXTINF:-1 group-title="24/7",LUIS MIGUEL LA SERIE 2018
+http://tecnotv.club/20ago21/24.php?c=357
+#EXTINF:-1 group-title="24/7",Malcolm in the middle 2000
+http://tecnotv.club/20ago21/24.php?c=358
+#EXTINF:-1 group-title="24/7",AÑOS MARAVILLOSOS 1988
+http://tecnotv.club/20ago21/24.php?c=359
+#EXTINF:-1 group-title="24/7",Mazinger Z
+http://tecnotv.club/20ago21/24.php?c=360
+#EXTINF:-1 group-title="24/7",Naruto
+http://tecnotv.club/20ago21/24.php?c=361
+#EXTINF:-1 group-title="24/7",PINKY y CEREBRO
+http://tecnotv.club/20ago21/24.php?c=362
+#EXTINF:-1 group-title="24/7",Pokémon
+http://tecnotv.club/20ago21/24.php?c=363
+
+#EXTINF:-1 group-title="MUSICA" tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png", Rewind TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/2020-07-25.png", Ruidos TV
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="12" tvg-name="Awka" tvg-logo="https://lh3.googleusercontent.com/-axPzeNdcvq4/X4JBO2dt35I/AAAAAAAA6UM/X-3kz1phNyUa8lUEEnt_0-Nv3OZdOWACwCK8BGAsYHg/s0/2020-10-10.png", Awka
+https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="14" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="3" tvg-name="XTV Music" tvg-logo="https://lh3.googleusercontent.com/-AQn8CYeOAK8/X38KO1HXohI/AAAAAAAA6P8/aEkNrz3M0qwWAeklOdf2svEf0HV7bBjyACK8BGAsYHg/s0/2020-10-08.png", XTV Music
+https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0/2020-10-26.png", Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="6" tvg-name="Mix 24-7" tvg-logo="https://lh3.googleusercontent.com/-mOrpp3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="11" tvg-name="Mix 24-7 Baladas" tvg-logo="https://lh3.googleusercontent.com/-mOrpp3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Baladas
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="10" tvg-name="Mix 24-7 sun" tvg-logo="https://lh3.googleusercontent.com/-mOrpp3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 sun
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="9" tvg-name="Mix 24-7 Retro" tvg-logo="https://lh3.googleusercontent.com/-mOrpp3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Retro
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="7" tvg-name="Mix 24-7 Top 100" tvg-logo="https://lh3.googleusercontent.com/-mOrpp3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Top 100
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="8" tvg-name="Mix 24-7 Tropical" tvg-logo="https://lh3.googleusercontent.com/-mOrpp3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Tropical
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png", Portal FoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png", Retro Music Television
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://lh3.googleusercontent.com/-3hmTnW9e-Y4/XbDAlKKxKtI/AAAAAAAArnA/OkLJM2f1T0ktieMaceuBzVPOADwGIf1jACK8BGAsYHg/s0/2019-10-23.png", Carolina TV
+http://unlimited1-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="32" tvg-name="Alegria TV" tvg-logo="https://lh3.googleusercontent.com/-IDCwMaJRdnM/Xb11MVTbE-I/AAAAAAAAr4s/PbNF6ie1AIothtCRKeVvdVC6S5hO6a3xACK8BGAsYHg/s0/2019-11-02.png", Alegria TV
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="37" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png", Canal 38
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="63" tvg-name="Bajo Cero TV" tvg-logo="https://lh3.googleusercontent.com/-bNr32YilkwI/X7gHapMZxAI/AAAAAAAA7hc/tUFlaalIohMz1NqYEMuP77GfeYrh7HBNgCK8BGAsYHg/s0/2020-11-20.png", Bajo Cero TV
+https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png", Conecta TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="18" tvg-name="Corazon Llanero" tvg-logo="https://lh3.googleusercontent.com/-XR46wyY1FZc/XjomdF00q2I/AAAAAAAAvlY/RR7N6BVs2fQVrkRxUvldT5NN7KN5QGDDACK8BGAsYHg/s0/2020-02-04.png", Corazon Llanero
+https://5fa4275407563.streamlock.net:455/corazonllanerotv/corazonllanerotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="15" tvg-name="Eurolatina TV" tvg-logo="https://lh3.googleusercontent.com/-TM44QoGsUd4/X8bhuroUcNI/AAAAAAAA73Y/o84W1d_xBXA1yInTgmrlcjwFIGrFPTv9ACK8BGAsYHg/s0/2020-12-01.jpg", Eurolatina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://lh3.googleusercontent.com/-7rDHdedeWvo/Xmr-CC8Pa2I/AAAAAAAAwyI/X8CvdyCJtdQZutdQi2clULPfWJH0c8S3QCK8BGAsYHg/s0/2020-03-12.png", Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="23" tvg-name="m2o TV" tvg-logo="https://lh3.googleusercontent.com/-8k2_MMN4_Bc/X0Khp3P6tWI/AAAAAAAA46E/RE_IEG7uAo4WhxuJy71et8N5L1BRugBLgCK8BGAsYHg/s0/2020-08-23.png", m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://lh3.googleusercontent.com/-RF13xAQ97o0/XxzMzRqfnBI/AAAAAAAA3Zc/xet9CCbU7H8WEPRQGCXEPpiBxM5RUK6EwCK8BGAsYHg/s0/2020-07-25.png", Maxima FM
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="24" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="20" tvg-name="On Radio Ksun" tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png", On Radio Ksun
+https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="26" tvg-name="RCKStudio" tvg-logo="https://lh3.googleusercontent.com/-k220wrO7Pks/X2tCElFr0xI/AAAAAAAA50E/JjO-VenWP_cETYy8Se1-2pxO3-vMYU5nACK8BGAsYHg/s0/2020-09-23.png", RCKStudio
+https://rckstudio.duckdns.org/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://lh3.googleusercontent.com/-t2WD0yOsfvg/XzxnxYhCPPI/AAAAAAAA4oY/qwvkZXM7rAUzOACe0-fSRAQ7_8n6xb5wgCK8BGAsYHg/s0/2020-08-18.png", The Retro Channel
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="25" tvg-name="TuTv Quillota" tvg-logo="https://lh3.googleusercontent.com/-WD49JzHZ9cM/Xrsv-mIjUjI/AAAAAAAA0rs/g_Pgm6hQvNIbp8aHuvQ3H7kEkiu3-M4zQCK8BGAsYHg/s0/2020-05-12.png", TuTv Quillota
+https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="34" tvg-name="TV vconline.cl" tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png", TV vconline.cl
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="29" tvg-name="DJ Loncho TV" tvg-logo="https://lh3.googleusercontent.com/-VPBp6Vk47T4/XnzDahiuJCI/AAAAAAAAxMI/BkejtQRObwcVvsIvYbdi3Yf5UOizKSRoQCK8BGAsYHg/s0/2020-03-26.png", DJ Loncho TV
+https://srv2.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="28" tvg-name="Natural TV" tvg-logo="https://lh3.googleusercontent.com/-mHhSrfB607c/Xofchq4pWAI/AAAAAAAAxd8/1PbG6O1b6ZU6d_G1AImfuPfCMgxVk9eeACK8BGAsYHg/s0/2020-04-03.png", Natural TV
+http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="42" tvg-name="RadioTV.pro" tvg-logo="https://lh3.googleusercontent.com/-wwOQH4WvSZI/X5jEE-BBCmI/AAAAAAAA6y4/RgkfOZHscEIH9ceLQR6UPtuXQQUw0FXCACK8BGAsYHg/s0/2020-10-27.png", RadioTV.pro
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png", TV Exitos
+http://siglo21.dnsalias.com:8080/mylive/tvexitos/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png", Video Tour Channel
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica
+https://5f2eaf2aa4061.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png", TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg", Karibeña TV
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg", Best Cable Music
+https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="41" tvg-name="Hatun TV" tvg-logo="https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg", Hatun TV
+https://live.siete.us:1991/bestcablehatuntv/bestcablehatuntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png", Mas Cumbia
+https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png", Turbo Mix TV
+http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8?PlaylistM3UCL
